@@ -1,0 +1,931 @@
+Employee_ID,Name,Gender,Education_Level,Job_Category,Birth_Date,Age,Age_Group,Score,Phone_Number,Domicile_Province,First_Day_Employement
+1,Claire Gute,Pria,Sarjana,Functional Expert,1982-10-31,37,36 - 45,3.98,085246790036,DKI Jakarta,2006-02-16
+2,Darrin Van Huff,Pria,Pasca-Sarjana,Manager,1977-09-29,42,36 - 45,4.15,085246833311,DKI Jakarta,2002-12-20
+3,Sean O'Donnell,Pria,Pra-Sarjana,Staff,1971-08-21,48,46 to Above,3.98,085246990032,DKI Jakarta,1997-08-20
+4,Brosina Hoffman,Pria,Pasca-Sarjana,Manager,1969-06-15,50,46 to Above,3.23,085247028027,Jawa Barat,1993-06-19
+5,Andrew Allen,Wanita,Sarjana,Staff,1999-08-31,20,20 - 35,0.0,085247198103,Jawa Barat,2020-06-25
+6,Irene Maddox,Pria,Sarjana,Supervisor,1982-11-24,37,36 - 45,4.66,085247990049,Jawa Barat,2006-02-15
+7,Harold Pawlan,Pria,Sarjana,Senior Staff,1976-12-10,43,36 - 45,4.71,085247919140,Jawa Barat,2003-03-22
+8,Pete Kriz,Pria,Sarjana,Staff,1992-04-28,27,20 - 35,4.05,085247977095,DKI Jakarta,2020-06-19
+9,Alejandro Grove,Pria,Sarjana,Staff,1993-11-24,26,20 - 35,4.86,085247975080,DKI Jakarta,2020-02-24
+10,Zuschuss Donatelli,Wanita,Sarjana,Staff,1987-09-10,32,20 - 35,3.76,085247977041,DKI Jakarta,2015-10-25
+11,Ken Black,Wanita,Diploma,Staff,1978-09-19,41,36 - 45,3.42,085247960540,Jawa Tengah,2005-06-23
+12,Sandra Flanagan,Pria,Sarjana,Supervisor,1979-05-24,40,36 - 45,4.07,085247990049,Jawa Barat,2005-07-17
+13,Emily Burns,Pria,Sarjana,Supervisor,1990-07-27,29,20 - 35,4.29,085246755122,DI Yogyakarta,2015-03-26
+14,Eric Hoffmann,Wanita,Sarjana,Functional Expert,1987-11-04,32,20 - 35,4.0,085246848185,DI Yogyakarta,2011-01-20
+15,Tracy Blumstein,Wanita,Sarjana,Staff,1988-04-19,31,20 - 35,4.07,085246919901,Jawa Barat,2015-09-16
+16,Matt Abelman%,Pria,Diploma,Manager,1979-06-24,40,36 - 45,3.83,085247047150,Jawa Barat,2003-05-26
+17,Gene Hale,Pria,Sarjana,Functional Expert,1975-11-04,44,36 - 45,4.26,085247110024,Jawa Barat,2002-11-19
+18,Steve Nguyen!,Pria,Sarjana,Supervisor,1984-06-01,35,20 - 35,3.9,085247938109,Tangerang,2010-06-26
+19,Linda Cazamias,Wanita,Sarjana,Staff,1995-03-24,24,20 - 35,3.98,085247977041,Jawa Barat,2020-12-21
+20,Ruben Ausman,Pria,Pasca-Sarjana,Manager,1985-05-04,34,20 - 35,4.14,085247977070,Jawa Barat,2012-03-20
+21,Erin Smith,Wanita,Diploma,Supervisor,1970-07-08,49,46 to Above,3.96,085247935601,Bali,1998-09-20
+22,Odella Nelson,Pria,Sarjana,Senior Staff,1972-09-04,47,46 to Above,0.0,085247994122,Bali,1997-02-26
+23,Patrick O'Donnell,Pria,Sarjana,Staff,1990-06-16,29,20 - 35,4.02,085247927707,DKI Jakarta,2016-08-15
+24,Lena Hernandez,Wanita,Sarjana,Manager,1973-11-30,46,46 to Above,3.36,085247960623,DKI Jakarta,2000-08-19
+25,Darren Powers,Pria,Pra-Sarjana,Supervisor,1965-10-20,54,46 to Above,3.23,085246755901,DKI Jakarta,1989-06-17
+26,Janet Molinari,Pria,Sarjana,Functional Expert,1986-08-27,33,20 - 35,3.81,085246877095,Jawa Barat,2010-11-19
+27,Ted Butterfield,Pria,Sarjana,Supervisor,1985-07-23,34,20 - 35,4.04,085246990036,Jawa Barat,2009-11-19
+28,Kunst Miller,Pria,Sarjana,Functional Expert,1979-05-01,40,36 - 45,5.0,085247055407,Jawa Barat,2005-06-20
+29,Paul Stevenson,Pria,Sarjana,Manager,1982-10-26,37,36 - 45,3.82,085247197206,Jawa Barat,2010-08-19
+30,Brendan Sweed,Pria,Diploma,Supervisor,1977-05-02,42,36 - 45,3.05,085247960462,DKI Jakarta,2002-02-15
+31,Karen Daniels,Pria,Sarjana,Staff,1993-04-03,26,20 - 35,4.05,085247910035,DKI Jakarta,2018-07-15
+32,Henry MacAllister,Pria,Sarjana,Staff,1986-05-02,33,20 - 35,4.55,085247950322,DKI Jakarta,2012-11-26
+33,Tracy Blumstein,Pria,Sarjana,Supervisor,1977-11-27,42,36 - 45,4.0,085247943229,Jawa Tengah,2005-07-15
+34,Joel Eaton,Pria,Sarjana,Functional Expert,1975-11-17,44,36 - 45,3.87,085247998103,Jawa Barat,2001-07-21
+35,Ken Brennan,Pria,Sarjana,Manager,1978-06-13,41,36 - 45,3.82,085247937620,DI Yogyakarta,2004-03-19
+36,Joel Eaton,Wanita,Sarjana,Supervisor,1974-06-21,45,36 - 45,3.68,085247919805,DI Yogyakarta,2002-05-15
+37,Stewart Carmichael,Pria,Sarjana,Supervisor,1970-04-22,49,46 to Above,3.51,085246761701,Jawa Barat,1998-10-22
+38,Duane Noonan,Pria,Sarjana,Functional Expert,1973-04-08,46,46 to Above,3.9,085246885023,Jawa Barat,1998-10-23
+39,Julie Creighton,Pria,Sarjana,Manager,1979-10-21,40,36 - 45,3.92,085246990004,Jawa Barat,2006-01-25
+40,Christopher Schild,Pria,Sarjana,Functional Expert,1982-04-09,37,36 - 45,4.52,085247043229,Tangerang,2006-03-15
+41,Patrick O'Donnell,Pria,Sarjana,Senior Staff,1967-07-06,52,46 to Above,4.27,085247195661,Jawa Barat,1992-07-26
+42,Paul Gonzalez,Pria,Sarjana,Staff,1992-07-07,27,20 - 35,3.33,085247995123,Jawa Barat,2019-09-19
+43,Gary Mitchum,Pria,Sarjana,Staff,1988-08-04,31,20 - 35,4.31,085247998105,Bali,2016-08-19
+44,Jim Sink,Wanita,Sarjana,Functional Expert,1982-06-12,37,36 - 45,4.44,085247998115,Bali,2010-05-21
+45,Karl Braun,Pria,Sarjana,Supervisor,1981-11-01,38,36 - 45,3.96,085247973034,DKI Jakarta,2009-07-21
+46,Roger Barcio,Pria,Diploma,Manager,1973-11-10,46,46 to Above,3.71,085247990045,DKI Jakarta,1998-05-23
+47,Parhena Norris,Wanita,Sarjana,Staff,1990-07-17,29,20 - 35,3.76,085247919134,DKI Jakarta,2016-10-15
+48,Katherine Ducich,Pria,Diploma,Senior Staff,1964-11-03,55,46 to Above,0.0,085247988220,Jawa Barat,1991-05-25
+49,Elpida Rittenbach,Pria,Sarjana,Functional Expert,1986-06-02,33,20 - 35,4.22,085246778207,Jawa Barat,2012-11-16
+50,Rick Bensley,Pria,Sarjana,Staff,1991-12-06,28,20 - 35,3.74,085246890004,Jawa Barat,2017-10-23
+51,Gary Zandusky,Pria,Sarjana,Staff,1994-04-26,25,20 - 35,3.89,085246960623,Jawa Barat,2020-09-15
+52,Lena Cacioppo,Pria,Pasca-Sarjana,Manager,1980-04-19,39,36 - 45,4.4,085247077036,DKI Jakarta,2006-02-23
+53,Janet Martin,Pria,Sarjana,Manager,1975-06-02,44,36 - 45,3.93,085247143055,DKI Jakarta,2003-09-26
+54,Pete Armstrong,Wanita,Sarjana,Supervisor,1982-10-07,37,36 - 45,4.54,085247992374,DKI Jakarta,2007-04-21
+55,Cynthia Voltz,Pria,Sarjana,Functional Expert,1984-07-02,35,20 - 35,4.13,085247945011,Jawa Tengah,2009-02-21
+56,Clay Ludtke,Pria,Sarjana,Manager,1970-07-27,49,46 to Above,4.03,08524797090,Jawa Barat,1996-03-17
+57,Ryan Crowe,Pria,Sarjana,Manager,1974-08-27,45,36 - 45,3.23,085247919120,DI Yogyakarta,2002-10-19
+58,Dave Kipp,Pria,Sarjana,Supervisor,1978-08-23,41,36 - 45,4.33,085247944312,DI Yogyakarta,2002-02-26
+59,Greg Guthrie,Pria,Sarjana,Supervisor,1980-05-04,39,36 - 45,3.82,085247980219,Jawa Barat,2004-06-15
+60,Steven Cartwright,Wanita,Sarjana,Staff,1972-10-26,47,46 to Above,3.98,085247975220,Jawa Barat,1998-10-23
+61,Alan Dominguez,Pria,Sarjana,Functional Expert,1985-10-29,34,20 - 35,3.73,085246790604,Jawa Barat,2009-05-21
+62,Philip Fox,Wanita,Sarjana,Secretary,1994-11-05,25,20 - 35,0.0,085246848601,Tangerang,2020-05-17
+63,Troy Staebel,Wanita,Sarjana,Functional Expert,1980-07-12,39,36 - 45,3.73,085246975220,Jawa Barat,2008-03-26
+64,Lindsay Shagiari,Wanita,Sarjana,Staff,1993-07-04,26,20 - 35,3.55,085247044256,Jawa Barat,2020-01-15
+65,Dorothy Wardle,Pria,Sarjana,Functional Expert,1980-08-06,39,36 - 45,4.08,085247190032,Bali,2006-10-22
+66,Lena Creighton,Pria,Sarjana,Staff,1994-11-24,25,20 - 35,4.11,085247955044,Bali,2020-10-17
+67,Jonathan Doherty,Pria,Sarjana,Functional Expert,1971-06-23,48,46 to Above,3.86,085247994109,DKI Jakarta,1998-08-22
+68,Sally Hughsby,Wanita,Pra-Sarjana,Functional Expert,1981-08-19,38,36 - 45,3.51,085247992037,DKI Jakarta,2009-06-15
+69,Sandra Glassco,Pria,Sarjana,Supervisor,1982-11-03,37,36 - 45,3.75,085247910024,DKI Jakarta,2007-07-22
+70,Helen Andreada,Pria,Pasca-Sarjana,Manager,1982-08-11,37,36 - 45,4.27,085247960623,Jawa Barat,2006-01-26
+71,Maureen Gastineau,Pria,Sarjana,Staff,1990-05-24,29,20 - 35,4.08,085247910009,Jawa Barat,2015-11-21
+72,Justin Ellison,Pria,Sarjana,Manager,1982-08-24,37,36 - 45,4.02,085247977506,Jawa Barat,2007-08-22
+73,Tamara Willingham,Pria,Sarjana,Functional Expert,1979-07-07,40,36 - 45,0.0,085246760610,Jawa Barat,2004-01-22
+74,Stephanie Phelps,Pria,Sarjana,Manager,1984-11-18,35,20 - 35,3.86,085246894513,DKI Jakarta,2012-03-17
+75,NeilKnudson,Pria,Sarjana,Staff,1996-09-28,23,20 - 35,0.0,085246927514,DKI Jakarta,2020-12-16
+76,Dave Brooks,Pria,Diploma,Functional Expert,1978-07-19,41,36 - 45,4.0,08524707960,DKI Jakarta,2002-11-18
+77,Nora Paige,Pria,Sarjana,Manager,1971-06-23,48,46 to Above,4.26,085247145231,Jawa Tengah,1995-01-26
+78,Ted Trevino,Pria,Pasca-Sarjana,Functional Expert,1984-08-20,35,20 - 35,4.0,085247933319,Jawa Barat,2009-01-16
+79,Eric Murdock,Wanita,Sarjana,Senior Staff,1972-03-31,47,46 to Above,4.0,085247943229,DI Yogyakarta,1999-10-25
+80,Ruben Dartt,Pria,Diploma,Supervisor,1973-04-16,46,46 to Above,3.63,085247980906,DI Yogyakarta,2001-07-24
+81,Max Jones,Pria,Sarjana,Functional Expert,1983-05-26,36,36 - 45,3.81,08524797109,Jawa Barat,2008-09-17
+82,Becky Martin,Pria,Sarjana,Manager,1982-06-02,37,36 - 45,3.92,085247960623,Jawa Barat,2009-05-17
+83,Chad Sievert,Wanita,Sarjana,Supervisor,1967-08-14,52,46 to Above,3.62,085247910024,Jawa Barat,1992-04-20
+84,Jennifer Braxton,Pria,Sarjana,Staff,1992-11-07,27,20 - 35,4.0,085247948180,Tangerang,2017-10-26
+85,Shirley Jackson,Pria,Sarjana,Senior Staff,1979-11-25,40,36 - 45,3.31,085246722204,Jawa Barat,2003-07-20
+86,Joel Eaton,Pria,Sarjana,Functional Expert,1989-05-24,30,20 - 35,4.12,085246880004,Jawa Barat,2014-12-25
+87,Jim Kriz,Pria,Pasca-Sarjana,Manager,1984-08-06,35,20 - 35,3.85,08524697601,Bali,2012-06-17
+88,David Kendrick,Pria,Pasca-Sarjana,Staff,1990-08-27,29,20 - 35,3.34,085247033710,Bali,2017-11-20
+89,Robert Marley,Pria,Sarjana,Manager,1981-09-22,38,36 - 45,4.06,085247119143,DKI Jakarta,2007-03-22
+90,Sally Knutson,Pria,Pasca-Sarjana,Senior Staff,1966-06-05,53,46 to Above,3.01,085247994122,DKI Jakarta,1992-12-23
+91,Frank Merwin,Pria,Sarjana,Functional Expert,1982-06-08,37,36 - 45,3.91,085247984041,DKI Jakarta,2010-08-22
+92,Alice McCarthy,Pria,Sarjana,Staff,1988-04-29,31,20 - 35,4.2,085247978745,Jawa Barat,2016-08-20
+93,Mark Packer,Pria,Sarjana,Staff,1996-12-05,23,20 - 35,0.0,085247994122,Jawa Barat,2020-01-25
+94,Mary Zewe,Pria,Sarjana,Functional Expert,1978-05-02,41,36 - 45,3.69,08524791852,Jawa Barat,2006-11-23
+95,Cassandra Brandow,Pria,Sarjana,Functional Expert,1983-03-30,36,36 - 45,4.37,085247910009,Jawa Barat,2008-05-18
+96,Valerie Mitchum,Pria,Sarjana,Functional Expert,1974-07-14,45,36 - 45,3.83,085247910035,DKI Jakarta,2001-01-19
+97,Fred Hopkins,Wanita,Sarjana,Supervisor,1969-06-09,50,46 to Above,3.14,085246731907,DKI Jakarta,1995-08-19
+98,Maria Bertelson,Wanita,Sarjana,Staff,1989-10-26,30,20 - 35,3.58,085246810009,DKI Jakarta,2014-02-26
+99,Bruce Stewart,Pria,Pasca-Sarjana,Manager,1985-05-26,34,20 - 35,4.7,085246994109,Jawa Tengah,2011-02-17
+100,Logan Currie,Pria,Sarjana,Functional Expert,1985-06-09,34,20 - 35,4.52,08524706040,Jawa Barat,2011-07-21
+101,Heather Kirkland,Pria,Sarjana,Functional Expert,1989-06-19,30,20 - 35,0.0,085247178550,DI Yogyakarta,2014-12-19
+102,Laurel Elliston,Pria,Pasca-Sarjana,Functional Expert,1979-05-30,40,36 - 45,4.12,085247919140,DI Yogyakarta,2006-01-21
+103,Joseph Holt,Pria,Pasca-Sarjana,Staff,1989-09-25,30,20 - 35,3.68,085247945231,Jawa Barat,2017-11-23
+104,Michael Stewart,Wanita,Sarjana,Staff,1973-07-29,46,46 to Above,4.34,085247910009,Jawa Barat,1998-04-23
+105,Victoria Wilson,Pria,Diploma,Manager,1971-11-28,48,46 to Above,4.03,085247998198,Jawa Barat,1999-05-22
+106,Jonathan Howell,Pria,Sarjana,Functional Expert,1989-08-26,30,20 - 35,4.6,085247961604,Tangerang,2017-09-17
+107,Joni Blumstein,Pria,Sarjana,Supervisor,1982-04-27,37,36 - 45,3.98,085247989115,Jawa Barat,2009-08-26
+108,David Smith,Wanita,Pra-Sarjana,Staff,1980-06-02,39,36 - 45,4.23,08524792886,Jawa Barat,2005-07-15
+109,Valerie Dominguez,Wanita,Sarjana,Secretary,1994-06-16,25,20 - 35,0.0,085246777036,Bali,2020-02-23
+110,Erin Ashbrook,Pria,Pasca-Sarjana,Senior Staff,1983-04-29,36,36 - 45,3.53,085246833180,Bali,2007-12-25
+111,Christopher Schild,Wanita,Sarjana,Staff,1980-06-05,39,36 - 45,3.93,085246928403,DKI Jakarta,2004-01-20
+112,David Bremer,Pria,Sarjana,Staff,1992-08-23,27,20 - 35,3.75,085247010024,DKI Jakarta,2019-05-23
+113,Ken Lonsdale,Wanita,Sarjana,Staff,1993-09-25,26,20 - 35,3.6,085247194110,DKI Jakarta,2019-10-19
+114,Dianna Wilson,Pria,Sarjana,Functional Expert,1982-08-01,37,36 - 45,3.97,085247939212,Jawa Barat,2009-01-22
+115,Logan Haushalter,Pria,Sarjana,Staff,1980-09-02,39,36 - 45,4.21,085247948187,Jawa Barat,2005-12-19
+116,Kelly Collister,Pria,Sarjana,Staff,1994-11-29,25,20 - 35,3.44,085247910801,Jawa Barat,2020-03-25
+117,Delfina Latchford,Wanita,Sarjana,Supervisor,1974-03-27,45,36 - 45,3.56,085247978207,Jawa Barat,2000-10-19
+118,Dan Reichenbach,Pria,Sarjana,Functional Expert,1975-06-05,44,36 - 45,4.01,085247928052,DKI Jakarta,2003-05-21
+119,Craig Carreira,Pria,Sarjana,Staff,1992-05-31,27,20 - 35,3.89,08524791852,DKI Jakarta,2020-12-19
+120,Dorris liebe,Pria,Sarjana,Supervisor,1981-10-16,38,36 - 45,2.98,085247932216,DKI Jakarta,2006-11-26
+121,Sean Braxton,Pria,Sarjana,Supervisor,1977-09-18,42,36 - 45,3.82,085246777070,Jawa Tengah,2003-05-20
+122,Roy Collins,Pria,Sarjana,Staff,1993-09-13,26,20 - 35,4.43,085246810024,Jawa Barat,2019-06-23
+123,Alan Hwang,Wanita,Pasca-Sarjana,Functional Expert,1972-06-27,47,46 to Above,3.67,085246948227,DI Yogyakarta,2000-04-21
+124,Claudia Bergmann,Pria,Sarjana,Manager,1978-08-06,41,36 - 45,4.41,085247047201,DI Yogyakarta,2004-08-18
+125,Paul Gonzalez,Pria,Sarjana,Staff,1990-08-03,29,20 - 35,3.96,085247113021,Jawa Barat,2018-04-19
+126,Christine Abelman,Wanita,Diploma,Supervisor,1975-11-06,44,36 - 45,3.96,085247979109,Jawa Barat,2003-05-23
+127,Kristen Hastings,Pria,Sarjana,Manager,1978-09-24,41,36 - 45,3.91,085247960610,Jawa Barat,2006-08-20
+128,Helen Andreada,Pria,Sarjana,Supervisor,1988-08-05,31,20 - 35,4.4,085247911757,Tangerang,2016-10-25
+129,Barry Blumstein,Wanita,Sarjana,Staff,1989-10-26,30,20 - 35,5.0,085247994110,Jawa Barat,2014-09-19
+130,Andrew Gjertsen,Pria,Pasca-Sarjana,Supervisor,1980-11-09,39,36 - 45,4.02,085247990008,Jawa Barat,2004-01-22
+131,Steven Cartwright,Pria,Sarjana,Supervisor,1975-06-22,44,36 - 45,4.33,085247912180,Bali,2000-07-24
+132,Jas O'Carroll,Wanita,Sarjana,Staff,1988-10-17,31,20 - 35,4.81,085247910024,Bali,2016-02-16
+133,Tracy Blumstein,Pria,Sarjana,Functional Expert,1984-03-22,35,20 - 35,4.64,085246710024,DKI Jakarta,2010-07-21
+134,Alan Haines,Pria,Diploma,Staff,1980-10-24,39,36 - 45,4.35,085246890045,DKI Jakarta,2007-05-19
+135,Nick Zandusky,Pria,Sarjana,Staff,1976-10-29,43,36 - 45,4.73,085246960610,DKI Jakarta,2004-11-23
+136,Kelly Lampkin,Pria,Sarjana,Manager,1982-09-11,37,36 - 45,3.52,085247077340,Jawa Barat,2009-09-18
+137,Jonathan Doherty,Wanita,Diploma,Supervisor,1978-07-31,41,36 - 45,3.07,085247114609,Jawa Barat,2004-03-22
+138,Jonathan Howell,Pria,Sarjana,Manager,1975-09-21,44,36 - 45,3.62,085247964118,Jawa Barat,2002-12-17
+139,Alan Schoenberger,Pria,Diploma,Functional Expert,1979-06-25,40,36 - 45,4.12,085247943055,Jawa Barat,2005-11-16
+140,Ken Brennan,Pria,Sarjana,Functional Expert,1985-12-05,34,20 - 35,4.38,085247990049,DKI Jakarta,2010-11-24
+141,Corey Roper,Wanita,Sarjana,Staff,1994-09-23,25,20 - 35,4.41,085247959405,DKI Jakarta,2020-10-24
+142,Shahid Hopkins,Pria,Sarjana,Staff,1995-05-20,24,20 - 35,4.53,085247977041,DKI Jakarta,2020-10-25
+143,Ben Peterman,Pria,Sarjana,Staff,1992-09-04,27,20 - 35,4.49,085247948234,Jawa Tengah,2019-12-25
+144,Thomas Seio,Pria,Pasca-Sarjana,Manager,1983-12-06,36,36 - 45,5.0,085247990032,Jawa Barat,2007-01-24
+145,Andy Gerbode,Pria,Sarjana,Functional Expert,1981-11-16,38,36 - 45,4.2,085246733801,DI Yogyakarta,2007-01-19
+146,Sung Pak,Pria,Sarjana,Staff,1995-09-17,24,20 - 35,3.93,085246819134,DI Yogyakarta,2019-09-16
+147,Nathan Mautz,Pria,Sarjana,Functional Expert,1984-08-16,35,20 - 35,4.2,085246990036,Jawa Barat,2009-02-25
+148,Frank Atkinson,Pria,Sarjana,Functional Expert,1985-09-18,34,20 - 35,3.77,085247090032,Jawa Barat,2009-09-15
+149,Grace Kelly,Pria,Sarjana,Supervisor,1970-11-13,49,46 to Above,3.72,085247136116,Jawa Barat,1997-01-25
+150,Don Jones,Pria,Sarjana,Supervisor,1976-07-20,43,36 - 45,4.08,085247976106,Tangerang,2004-04-24
+151,Patrick O'Brill,Pria,Sarjana,Staff,1991-08-05,28,20 - 35,4.13,085247910035,Jawa Barat,2017-04-23
+152,John Lucas,Pria,Sarjana,Supervisor,1983-04-11,36,36 - 45,3.42,085247960653,Jawa Barat,2008-01-25
+153,Doug Bickford,Pria,Sarjana,Functional Expert,1985-07-25,34,20 - 35,3.96,085247994110,Bali,2012-07-20
+154,Alyssa Crouse,Pria,Sarjana,Staff,1993-07-16,26,20 - 35,4.41,085247932216,Bali,2017-11-26
+155,Ken Lonsdale,Pria,Sarjana,Staff,1991-10-25,28,20 - 35,4.11,085247977070,DKI Jakarta,2015-05-18
+156,Chad Sievert,Pria,Sarjana,Manager,1980-09-02,39,36 - 45,4.41,085247992804,DKI Jakarta,2005-02-24
+157,Clay Cheatham,Pria,Pra-Sarjana,Supervisor,1973-12-09,46,46 to Above,3.72,085246790045,DKI Jakarta,1997-07-19
+158,Tamara Dahlen,Pria,Sarjana,Manager,1976-10-24,43,36 - 45,4.02,085246894110,Jawa Barat,2004-10-15
+159,Adam Bellavance,Wanita,Sarjana,Staff,1990-06-22,29,20 - 35,2.35,085246933614,Jawa Barat,2017-03-24
+160,Jeremy Lonsdale,Wanita,Sarjana,Functional Expert,1977-10-01,42,36 - 45,3.15,085247098105,Jawa Barat,2003-07-22
+161,Heather Kirkland,Wanita,Sarjana,Functional Expert,1987-04-23,32,20 - 35,2.67,085247190008,Jawa Barat,2015-07-18
+162,Victoria Brennan,Pria,Sarjana,Functional Expert,1987-07-08,32,20 - 35,3.41,085247940475,DKI Jakarta,2015-03-16
+163,Katrina Willman,Pria,Sarjana,Staff,1988-11-04,31,20 - 35,4.19,085247997301,DKI Jakarta,2015-10-24
+164,Julia Dunbar,Pria,Pasca-Sarjana,Staff,1970-07-04,49,46 to Above,4.07,085247978041,DKI Jakarta,1994-03-23
+165,Michael Kennedy,Wanita,Sarjana,Secretary,1991-09-25,28,20 - 35,0.0,085247992024,Jawa Tengah,2018-03-20
+166,Guy Thornton,Pria,Sarjana,Staff,1973-05-23,46,46 to Above,4.12,085247919134,Jawa Barat,2000-07-21
+167,Arthur Gainer,Pria,Sarjana,Supervisor,1982-10-21,37,36 - 45,4.38,085247919120,DI Yogyakarta,2008-11-23
+168,Muhammed MacIntyre,Pria,Sarjana,Supervisor,1968-08-29,51,46 to Above,4.1,085247933614,DI Yogyakarta,1992-11-24
+169,Allen Rosenblatt,Wanita,Diploma,Supervisor,1971-07-05,48,46 to Above,4.13,085246775217,Jawa Barat,1998-05-21
+170,Russell Applegate,Wanita,Diploma,Staff,1976-03-25,43,36 - 45,3.79,085246819143,Jawa Barat,2003-01-17
+171,Alejandro Savely,Pria,Sarjana,Staff,1986-05-20,33,20 - 35,4.92,085246943123,Jawa Barat,2014-12-24
+172,Laura Armstrong,Pria,Sarjana,Supervisor,1982-12-02,37,36 - 45,3.28,085247010011,Tangerang,2008-06-25
+173,Denny Ordway,Pria,Sarjana,Supervisor,1978-11-08,41,36 - 45,4.21,085247160610,Jawa Barat,2004-01-16
+174,Dean Katz,Pria,Pasca-Sarjana,Manager,1977-03-21,42,36 - 45,4.39,085247980013,Jawa Barat,2005-12-23
+175,Nathan Gelder,Pria,Diploma,Senior Staff,1979-04-29,40,36 - 45,3.18,085247994591,Bali,2005-09-19
+176,Mike Vittorini,Pria,Sarjana,Staff,1989-06-16,30,20 - 35,4.02,085247955407,Bali,2015-02-21
+177,Jack Garza,Pria,Sarjana,Staff,1988-07-01,31,20 - 35,4.81,085247992691,DKI Jakarta,2012-12-15
+178,Bart Pistole,Pria,Sarjana,Staff,1983-10-22,36,36 - 45,4.27,085247948307,DKI Jakarta,2011-03-20
+179,Victor Preis,Pria,Sarjana,Staff,1993-09-02,26,20 - 35,4.04,08524797060,DKI Jakarta,2019-12-24
+180,Saphhira Shifley,Pria,Sarjana,Manager,1981-07-24,38,36 - 45,4.19,085247947201,Jawa Barat,2008-08-18
+181,Harold Pawlan,Wanita,Sarjana,Staff,1990-03-28,29,20 - 35,4.34,085246798661,Jawa Barat,2014-07-15
+182,Anna Gayman,Pria,Sarjana,Supervisor,1980-05-19,39,36 - 45,3.66,085246810024,Jawa Barat,2004-12-18
+183,Luke Foster,Pria,Sarjana,Supervisor,1976-05-14,43,36 - 45,4.02,085246910035,Jawa Barat,2002-08-26
+184,Stephanie Phelps,Pria,Sarjana,Supervisor,1980-08-01,39,36 - 45,3.43,085247043229,DKI Jakarta,2005-11-17
+185,Roy FranzÃ¶sisch,Pria,Sarjana,Senior Staff,1981-04-24,38,36 - 45,4.0,085247160505,DKI Jakarta,2006-12-26
+186,Keith Herrera,Pria,Sarjana,Functional Expert,1987-07-10,32,20 - 35,3.67,085247947201,DKI Jakarta,2013-05-18
+187,Kimberly Carter,Pria,Sarjana,Staff,1993-04-18,26,20 - 35,3.61,085247975701,Jawa Tengah,2019-03-17
+188,Caroline Jumper,Wanita,Sarjana,Staff,1996-11-27,23,20 - 35,4.56,085247910024,Jawa Barat,2020-05-26
+189,Philip Brown,Pria,Pra-Sarjana,Supervisor,1980-07-07,39,36 - 45,3.83,085247927217,DI Yogyakarta,2007-08-22
+190,Victoria Brennan,Pria,Sarjana,Staff,1994-09-15,25,20 - 35,4.67,085247939212,DI Yogyakarta,2020-07-23
+191,Sung Pak,Pria,Sarjana,Supervisor,1991-03-30,28,20 - 35,4.16,085247910035,Jawa Barat,2016-11-18
+192,Joel Eaton,Pria,Sarjana,Staff,1987-12-09,32,20 - 35,4.0,085247922980,Jawa Barat,2015-04-22
+193,Michael Paige,Wanita,Diploma,Staff,1981-04-04,38,36 - 45,3.02,085246719013,Jawa Barat,2009-12-20
+194,Natalie Fritzler,Wanita,Sarjana,Functional Expert,1976-06-20,43,36 - 45,4.62,085246844105,Tangerang,2002-01-25
+195,Janet Molinari,Wanita,Sarjana,Manager,1973-07-31,46,46 to Above,4.19,085246998103,Jawa Barat,2000-05-25
+196,Shirley Daniels,Wanita,Diploma,Secretary,1996-08-07,23,20 - 35,0.0,085247090805,Jawa Barat,2020-01-20
+197,Ken Heidel,Pria,Pra-Sarjana,Functional Expert,1984-03-26,35,20 - 35,3.51,085247127511,Bali,2010-08-23
+198,Ross Baird,Pria,Sarjana,Staff,1988-05-03,31,20 - 35,4.99,085247984057,Bali,2012-04-22
+199,Dave Brooks,Wanita,Pasca-Sarjana,Functional Expert,1982-10-22,37,36 - 45,3.61,085247990045,DKI Jakarta,2007-09-26
+200,Mike Kennedy,Pria,Sarjana,Functional Expert,1987-05-07,32,20 - 35,4.69,085247948205,DKI Jakarta,2011-02-17
+201,Philisse Overcash,Pria,Sarjana,Staff,1994-04-04,25,20 - 35,4.32,085247919140,DKI Jakarta,2020-02-24
+202,Brenda Bowman,Pria,Sarjana,Functional Expert,1989-05-29,30,20 - 35,4.52,085247933012,Jawa Barat,2013-07-22
+203,Cynthia Voltz,Pria,Sarjana,Functional Expert,1985-07-22,34,20 - 35,3.96,085247978745,Jawa Barat,2009-06-15
+204,Pete Kriz,Wanita,Sarjana,Supervisor,1971-04-11,48,46 to Above,3.87,085247911572,Jawa Barat,1997-11-19
+205,Troy Blackwell,Pria,Sarjana,Manager,1977-12-03,42,36 - 45,3.92,085246794110,Jawa Barat,2004-03-15
+206,Raymond Buch,Pria,Sarjana,Staff,1989-12-06,30,20 - 35,4.66,085246860540,DKI Jakarta,2017-09-18
+207,Ed Braxton,Pria,Sarjana,Supervisor,1976-04-09,43,36 - 45,4.26,085246975220,DKI Jakarta,2003-11-15
+208,Ken Heidel,Pria,Sarjana,Vice President,1969-04-22,50,46 to Above,0.0,085247092105,DKI Jakarta,1993-12-23
+209,Sanjit Chand,Pria,Pasca-Sarjana,Staff,1992-07-16,27,20 - 35,2.95,085247160201,Jawa Tengah,2017-12-16
+210,Natalie Fritzler,Pria,Pra-Sarjana,Supervisor,1982-05-05,37,36 - 45,4.51,085247990004,Jawa Barat,2006-07-23
+211,Joseph Holt,Wanita,Pra-Sarjana,Functional Expert,1978-08-28,41,36 - 45,4.23,085247930318,DI Yogyakarta,2005-12-25
+212,Tanja Norvell,Wanita,Sarjana,Manager,1984-05-18,35,20 - 35,3.51,085247943229,DI Yogyakarta,2011-09-21
+213,Joni Sundaresam,Wanita,Sarjana,Senior Staff,1982-07-18,37,36 - 45,4.03,085247971111,Jawa Barat,2009-04-25
+214,David Smith,Pria,Pasca-Sarjana,Functional Expert,1980-09-01,39,36 - 45,4.04,085247933710,Jawa Barat,2007-12-22
+215,Craig Carreira,Wanita,Sarjana,Functional Expert,1973-06-21,46,46 to Above,3.79,085247922204,Jawa Barat,1997-10-25
+216,Maya Herman,Pria,Sarjana,Staff,1996-12-05,23,20 - 35,0.0,085247950315,Tangerang,2020-02-21
+217,Jeremy Pistek,Pria,Pasca-Sarjana,Supervisor,1978-06-25,41,36 - 45,4.39,085246794110,Jawa Barat,2002-03-20
+218,Kristen Hastings,Pria,Diploma,Supervisor,1982-09-26,37,36 - 45,4.0,085246843229,Jawa Barat,2010-03-15
+219,Jeremy Ellison,Wanita,Sarjana,Secretary,1995-11-12,24,20 - 35,0.0,085246929203,Bali,2020-11-19
+220,John Grady,Pria,Sarjana,Supervisor,1988-09-25,31,20 - 35,4.26,085247093534,Bali,2015-05-24
+221,Xylona Preis,Pria,Sarjana,Staff,1993-08-16,26,20 - 35,3.67,085247193534,DKI Jakarta,2019-02-24
+222,Erin Mull,Pria,Sarjana,Manager,1977-03-29,42,36 - 45,4.13,085247910024,DKI Jakarta,2001-01-17
+223,Michelle Tran,Wanita,Pasca-Sarjana,Staff,1992-09-25,27,20 - 35,3.44,085247971203,DKI Jakarta,2018-12-24
+224,Sue Ann Reed,Pria,Sarjana,Functional Expert,1975-04-27,44,36 - 45,3.93,085247994122,Jawa Barat,2003-11-24
+225,Carl Weiss,Pria,Sarjana,Staff,1992-07-29,27,20 - 35,4.7,085247980219,Jawa Barat,2019-07-25
+226,Astrea Jones,Pria,Sarjana,Manager,1988-07-25,31,20 - 35,4.23,085247968104,Jawa Barat,2012-06-24
+227,Sonia Sunley,Pria,Sarjana,Functional Expert,1988-10-15,31,20 - 35,3.99,085247998026,Jawa Barat,2014-02-17
+228,Rose O'Brian,Pria,Sarjana,Staff,1994-04-06,25,20 - 35,4.76,085247992704,DKI Jakarta,2018-01-24
+229,Maribeth Dona,Pria,Sarjana,Manager,1982-05-20,37,36 - 45,3.92,085246719140,DKI Jakarta,2006-08-15
+230,Sanjit Chand,Pria,Sarjana,Senior Staff,1977-04-25,42,36 - 45,3.25,085246819140,DKI Jakarta,2002-06-17
+231,Maribeth Yedwab,Wanita,Sarjana,Supervisor,1970-10-04,49,46 to Above,2.93,08524697109,Jawa Tengah,1998-01-22
+232,Ed Braxton,Pria,Sarjana,Manager,1974-08-19,45,36 - 45,4.17,085247094110,Jawa Barat,1998-01-26
+233,Christopher Martinez,Pria,Sarjana,Staff,1984-04-25,35,20 - 35,4.31,085247155044,DI Yogyakarta,2010-05-17
+234,Lynn Smith,Pria,Pasca-Sarjana,Supervisor,1988-07-29,31,20 - 35,3.93,085247940214,DI Yogyakarta,2014-03-19
+235,Luke Foster,Pria,Sarjana,Senior Staff,1977-05-07,42,36 - 45,3.91,085247944052,Jawa Barat,2002-06-20
+236,Bradley Nguyen,Pria,Diploma,Manager,1972-08-13,47,46 to Above,3.51,08524797036,Jawa Barat,2000-01-19
+237,Alan Dominguez,Pria,Sarjana,Senior Staff,1971-08-10,48,46 to Above,2.63,085247993905,Jawa Barat,1995-02-22
+238,Dean Braden,Pria,Sarjana,Manager,1987-05-12,32,20 - 35,3.8,085247939212,Tangerang,2011-12-22
+239,Matt Connell,Pria,Sarjana,Manager,1972-06-11,47,46 to Above,3.72,085247910035,Jawa Barat,1998-04-25
+240,Logan Haushalter,Pria,Sarjana,Staff,1977-05-30,42,36 - 45,3.2,085247910035,Jawa Barat,2001-03-25
+241,Brian Dahlen,Pria,Sarjana,Manager,1981-04-25,38,36 - 45,3.63,085246794122,Bali,2008-07-21
+242,Patricia Hirasaki,Pria,Sarjana,Manager,1978-09-03,41,36 - 45,4.2,085246832216,Bali,2002-07-16
+243,Mike Gockenbach,Pria,Sarjana,Staff,1991-11-27,28,20 - 35,3.99,085246922153,DKI Jakarta,2018-11-17
+244,Karen Bern,Wanita,Sarjana,Staff,1993-04-06,26,20 - 35,4.09,085247019140,DKI Jakarta,2017-02-17
+245,Jasper Cacioppo,Pria,Sarjana,Staff,1971-09-20,48,46 to Above,3.5,085247117602,DKI Jakarta,1996-10-15
+246,Rob Lucas,Wanita,Diploma,Secretary,1995-03-20,24,20 - 35,0.0,085247922153,Jawa Barat,2020-11-17
+247,Allen Armold,Pria,Diploma,Supervisor,1973-05-09,46,46 to Above,4.6,085247994109,Jawa Barat,1998-05-15
+248,Emily Phan,Pria,Sarjana,Staff,1995-04-08,24,20 - 35,0.0,085247948227,Jawa Barat,2020-09-17
+249,Mark Packer,Pria,Sarjana,Manager,1970-11-18,49,46 to Above,3.3,085247914609,Jawa Barat,1995-08-18
+250,Darren Koutras,Wanita,Sarjana,Staff,1982-04-10,37,36 - 45,3.88,085247990045,DKI Jakarta,2007-10-24
+251,Bradley Drucker,Pria,Sarjana,Staff,1994-08-19,25,20 - 35,4.23,085247992105,DKI Jakarta,2018-04-17
+252,Erin Smith,Pria,Pasca-Sarjana,Manager,1971-12-11,48,46 to Above,4.05,085247921044,DKI Jakarta,1995-02-16
+253,Liz MacKendrick,Pria,Sarjana,Manager,1977-04-05,42,36 - 45,4.96,085246710801,Jawa Tengah,2003-07-26
+254,Paul Gonzalez,Pria,Sarjana,Staff,1992-11-12,27,20 - 35,0.0,085246848227,Jawa Barat,2016-10-17
+255,Adrian Shami,Pria,Sarjana,Functional Expert,1977-07-12,42,36 - 45,4.74,085246994122,DI Yogyakarta,2002-07-24
+256,Dean Katz,Pria,Sarjana,Manager,1978-08-08,41,36 - 45,4.11,085247077095,DI Yogyakarta,2004-08-17
+257,Bill Donatelli,Pria,Sarjana,Supervisor,1982-06-28,37,36 - 45,4.13,085247148227,Jawa Barat,2006-12-15
+258,Ryan Crowe,Pria,Sarjana,Functional Expert,1991-06-04,28,20 - 35,4.06,08524796360,Jawa Barat,2015-09-18
+259,Greg Tran,Wanita,Sarjana,Functional Expert,1991-10-02,28,20 - 35,3.31,085247953209,Jawa Barat,2016-05-18
+260,Dean Katz,Wanita,Sarjana,Staff,1970-04-10,49,46 to Above,4.13,085247978207,Tangerang,1995-12-25
+261,Ashley Jarboe,Pria,Sarjana,Functional Expert,1977-06-07,42,36 - 45,3.86,085247975220,Jawa Barat,2004-12-25
+262,Olvera Toch,Pria,Sarjana,Supervisor,1985-09-28,34,20 - 35,3.93,085247922304,Jawa Barat,2012-12-17
+263,Liz Pelletier,Pria,Sarjana,Staff,1993-06-18,26,20 - 35,3.97,085247910009,Bali,2018-02-23
+264,Cynthia Arntzen,Pria,Sarjana,Functional Expert,1984-07-05,35,20 - 35,5.0,085247910011,Bali,2010-12-25
+265,Jeremy Farry,Pria,Sarjana,Staff,1984-08-22,35,20 - 35,3.8,085246722153,DKI Jakarta,2009-04-19
+266,Frank Preis,Pria,Sarjana,Supervisor,1982-07-13,37,36 - 45,4.18,085246843615,DKI Jakarta,2010-02-17
+267,Ellis Ballard,Pria,Sarjana,Functional Expert,1977-06-25,42,36 - 45,4.04,085246919140,DKI Jakarta,2002-12-19
+268,Jennifer Ferguson,Wanita,Sarjana,Staff,1976-07-09,43,36 - 45,4.0,085247019120,Jawa Barat,2000-05-19
+269,Sarah Foster,Wanita,Sarjana,Staff,1989-12-01,30,20 - 35,4.0,085247187401,Jawa Barat,2013-08-23
+270,Trudy Glocke,Pria,Pasca-Sarjana,Manager,1973-09-08,46,46 to Above,3.89,085247978664,Jawa Barat,2001-06-15
+271,Carlos Soltero,Pria,Sarjana,Staff,1993-05-02,26,20 - 35,0.0,085247939212,Jawa Barat,2019-11-21
+272,Charles Crestani,Pria,Sarjana,Functional Expert,1985-10-10,34,20 - 35,3.14,085247985023,DKI Jakarta,2010-10-18
+273,Dianna Vittorini,Pria,Sarjana,Supervisor,1982-08-18,37,36 - 45,4.27,085247992054,DKI Jakarta,2009-07-22
+274,Bruce Degenhardt,Wanita,Diploma,Secretary,1993-11-18,26,20 - 35,0.0,085247994110,DKI Jakarta,2020-03-16
+275,Zuschuss Carroll,Wanita,Sarjana,Staff,1988-04-18,31,20 - 35,4.18,085247972701,Jawa Tengah,2015-08-17
+276,Melanie Seite,Pria,Sarjana,Manager,1972-09-02,47,46 to Above,3.78,085247994110,Jawa Barat,1998-09-15
+277,Lena Radford,Pria,Sarjana,Senior Staff,1977-11-26,42,36 - 45,3.29,085246710011,DI Yogyakarta,2004-01-16
+278,Theone Pippenger,Wanita,Sarjana,Manager,1964-09-14,55,46 to Above,3.98,085246819134,DI Yogyakarta,1990-07-16
+279,Chloris Kastensmidt,Pria,Sarjana,Staff,1994-04-05,25,20 - 35,4.03,085246910011,Jawa Barat,2020-10-26
+280,Alan Shonely,Pria,Pasca-Sarjana,Manager,1970-11-13,49,46 to Above,4.06,085247097206,Jawa Barat,1995-03-24
+281,Andrew Roberts,Pria,Sarjana,Functional Expert,1991-08-01,28,20 - 35,4.03,085247148205,Jawa Barat,2019-01-18
+282,"Nona Balk,",Pria,Pasca-Sarjana,Manager,1972-07-13,47,46 to Above,3.48,085247932216,Tangerang,1997-03-18
+283,Giulietta Dortch,Pria,Sarjana,Manager,1983-05-20,36,36 - 45,4.12,085247910024,Jawa Barat,2008-04-16
+284,Clytie Kelty,Pria,Sarjana,Supervisor,1986-11-02,33,20 - 35,3.54,085247995123,Jawa Barat,2010-01-21
+285,Nat Gilpin,Pria,Sarjana,Supervisor,1981-10-28,38,36 - 45,4.27,085247923464,Bali,2008-10-20
+286,Christina Anderson,Wanita,Diploma,Supervisor,1981-06-18,38,36 - 45,4.03,085247942420,Bali,2009-09-16
+287,Sylvia Foulston,Pria,Sarjana,Manager,1979-06-04,40,36 - 45,4.0,085247998661,DKI Jakarta,2005-10-19
+288,Meg O'Connel,Pria,Pasca-Sarjana,Staff,1990-10-18,29,20 - 35,3.66,085247910024,DKI Jakarta,2014-09-18
+289,Annie Thurman,Wanita,Sarjana,Staff,1993-05-21,26,20 - 35,4.21,085246728540,DKI Jakarta,2018-11-20
+290,Logan Currie,Pria,Sarjana,Manager,1973-11-26,46,46 to Above,3.69,085246885254,Jawa Barat,1997-05-23
+291,Fred McMath,Pria,Sarjana,Staff,1994-10-08,25,20 - 35,3.94,085246952601,Jawa Barat,2020-04-17
+292,Brian Dahlen,Pria,Sarjana,Staff,1991-09-18,28,20 - 35,4.73,085247060653,Jawa Barat,2018-06-20
+293,Denny Joy,Pria,Sarjana,Staff,1989-05-02,30,20 - 35,4.66,085247192037,Jawa Barat,2016-03-18
+294,Max Engle,Pria,Pasca-Sarjana,Senior Staff,1976-11-03,43,36 - 45,3.14,085247945503,DKI Jakarta,2003-10-23
+295,Rick Bensley,Wanita,Sarjana,Supervisor,1978-05-06,41,36 - 45,4.03,08524797601,DKI Jakarta,2006-06-16
+296,Justin Deggeller,Pria,Sarjana,Functional Expert,1984-08-06,35,20 - 35,3.99,085247945231,DKI Jakarta,2008-03-20
+297,John Lee,Pria,Sarjana,Supervisor,1979-08-21,40,36 - 45,3.5,085247965109,Jawa Tengah,2006-01-19
+298,Sean Christensen,Pria,Sarjana,Staff,1984-07-20,35,20 - 35,4.18,085247990004,Jawa Barat,2012-03-23
+299,Tamara Willingham,Pria,Sarjana,Supervisor,1984-11-21,35,20 - 35,3.91,085247927217,DI Yogyakarta,2010-10-17
+300,Chuck Clark,Wanita,Sarjana,Staff,1991-06-29,28,20 - 35,0.0,085247963376,DI Yogyakarta,2015-01-23
+301,Barry Blumstein,Wanita,Diploma,Supervisor,1970-06-12,49,46 to Above,3.05,085246760610,Jawa Barat,1997-03-18
+302,Anthony Rawles,Pria,Pasca-Sarjana,Staff,1990-10-04,29,20 - 35,4.02,085246861107,Jawa Barat,2016-09-20
+303,Steven Roelle,Pria,Sarjana,Staff,1990-09-25,29,20 - 35,3.88,085246933142,Jawa Barat,2017-04-23
+304,Allen Rosenblatt,Wanita,Diploma,Secretary,1988-10-31,31,20 - 35,0.0,085247094109,Tangerang,2015-09-26
+305,Craig Reiter,Wanita,Sarjana,Manager,1972-11-30,47,46 to Above,3.71,085247119134,Jawa Barat,2000-03-20
+306,Eugene Hildebrand,Wanita,Pasca-Sarjana,Staff,1979-06-01,40,36 - 45,3.33,085247919143,Jawa Barat,2004-02-15
+307,Cassandra Brandow,Pria,Sarjana,Staff,1994-05-16,25,20 - 35,4.7,085247990008,Bali,2020-05-20
+308,Sibella Parks,Pria,Sarjana,Manager,1987-11-30,32,20 - 35,3.85,085247980219,Bali,2015-12-26
+309,Roy Collins,Pria,Sarjana,Staff,1992-12-04,27,20 - 35,4.25,085247910035,DKI Jakarta,2018-04-21
+310,Tiffany House,Wanita,Sarjana,Functional Expert,1978-10-27,41,36 - 45,3.69,085247985204,DKI Jakarta,2002-11-24
+311,Resi PÃ¶lking,Pria,Sarjana,Functional Expert,1991-06-03,28,20 - 35,3.69,085247947201,DKI Jakarta,2016-11-22
+312,Meg O'Connel,Pria,Sarjana,Manager,1974-04-23,45,36 - 45,3.99,085247998105,Jawa Barat,2000-03-25
+313,Tamara Dahlen,Pria,Diploma,Functional Expert,1973-07-07,46,46 to Above,4.29,085246710701,Jawa Barat,1998-03-25
+314,Rob Beeghly,Pria,Diploma,Supervisor,1979-05-25,40,36 - 45,4.19,085246850315,Jawa Barat,2004-11-19
+315,Carol Darley,Pria,Sarjana,Manager,1982-08-26,37,36 - 45,3.84,085246994601,Jawa Barat,2007-05-16
+316,Doug Jacobs,Pria,Sarjana,Staff,1995-03-23,24,20 - 35,4.0,085247028110,DKI Jakarta,2020-11-16
+317,Grant Thornton,Wanita,Sarjana,Supervisor,1972-04-22,47,46 to Above,3.71,085247192105,DKI Jakarta,2000-02-16
+318,Michael Chen,Pria,Sarjana,Manager,1982-05-12,37,36 - 45,3.72,085247992024,DKI Jakarta,2007-08-20
+319,Ralph Arnett,Pria,Sarjana,Supervisor,1977-12-11,42,36 - 45,3.89,085247994110,Jawa Tengah,2001-11-26
+320,Naresj Patel,Pria,Sarjana,Functional Expert,1975-04-22,44,36 - 45,4.06,085247930076,Jawa Barat,2001-08-23
+321,Alan Barnes,Pria,Pra-Sarjana,Supervisor,1982-06-23,37,36 - 45,4.51,085247972401,DI Yogyakarta,2009-10-22
+322,Jesus Ocampo,Wanita,Sarjana,Staff,1972-08-26,47,46 to Above,3.86,085247947374,DI Yogyakarta,2000-04-23
+323,Dorris liebe,Pria,Pasca-Sarjana,Functional Expert,1983-04-05,36,36 - 45,4.38,085247922153,Jawa Barat,2008-05-18
+324,Alejandro Savely,Pria,Sarjana,Manager,1979-09-17,40,36 - 45,3.35,085247994509,Jawa Barat,2006-12-22
+325,Jay Kimmel,Pria,Sarjana,Manager,1982-03-24,37,36 - 45,4.32,085246733030,Jawa Barat,2009-03-16
+326,Brad Norvell,Pria,Sarjana,Functional Expert,1991-04-12,28,20 - 35,4.03,085246846350,Tangerang,2018-09-17
+327,David Philippe,Wanita,Sarjana,Staff,1991-04-25,28,20 - 35,3.49,085246990045,Jawa Barat,2017-05-19
+328,Tracy Hopkins,Pria,Sarjana,Staff,1993-09-07,26,20 - 35,4.41,085247048911,Jawa Barat,2019-05-15
+329,Arthur Prichep,Pria,Diploma,Staff,1983-04-09,36,36 - 45,4.19,085247144221,Bali,2007-04-26
+330,Roland Schwarz,Pria,Sarjana,Functional Expert,1981-04-02,38,36 - 45,3.89,085247998115,Bali,2008-06-19
+331,Dorris liebe,Pria,Sarjana,Functional Expert,1977-08-02,42,36 - 45,4.87,085247910035,DKI Jakarta,2001-07-24
+332,Seth Vernon,Pria,Sarjana,Supervisor,1973-11-20,46,46 to Above,3.93,085247948073,DKI Jakarta,2000-12-23
+333,Kelly Collister,Pria,Sarjana,Functional Expert,1989-10-15,30,20 - 35,4.23,085247990008,DKI Jakarta,2014-12-25
+334,Christine Kargatis,Pria,Sarjana,Supervisor,1967-09-29,52,46 to Above,4.47,085247961701,Jawa Barat,1991-09-25
+335,Ross DeVincentis,Wanita,Sarjana,Staff,1995-10-05,24,20 - 35,3.96,085247910035,Jawa Barat,2019-08-25
+336,Michael Paige,Pria,Sarjana,Functional Expert,1982-09-20,37,36 - 45,4.08,08524793301,Jawa Barat,2009-04-19
+337,Mathew Reese,Pria,Sarjana,Staff,1994-10-30,25,20 - 35,3.85,085246720852,Jawa Barat,2020-02-23
+338,Steve Chapman,Pria,Sarjana,Manager,1974-04-05,45,36 - 45,4.27,085246877070,DKI Jakarta,1998-11-24
+339,Jay Fein,Pria,Sarjana,Functional Expert,1992-03-21,27,20 - 35,4.39,08524698701,DKI Jakarta,2018-12-18
+340,Emily Grady,Pria,Sarjana,Staff,1990-06-06,29,20 - 35,4.61,085247028540,DKI Jakarta,2016-09-18
+341,Darrin Sayre,Wanita,Sarjana,Staff,1990-04-01,29,20 - 35,3.55,085246790036,Jawa Tengah,2016-03-15
+342,Gary Zandusky,Pria,Pasca-Sarjana,Staff,1995-04-05,24,20 - 35,3.47,085246833311,Jawa Barat,2020-02-21
+343,Phillina Ober,Wanita,Pasca-Sarjana,Staff,1986-12-07,33,20 - 35,3.7,085246990032,DI Yogyakarta,2011-12-22
+344,Sung Shariari,Pria,Sarjana,Staff,1977-10-25,42,36 - 45,4.6,085247028027,DI Yogyakarta,2005-09-26
+345,Maya Herman,Pria,Sarjana,Functional Expert,1991-06-08,28,20 - 35,3.11,085247198103,Jawa Barat,2015-03-17
+346,Peter BÃ¼hler,Pria,Sarjana,Supervisor,1983-07-07,36,36 - 45,3.22,085247990049,Jawa Barat,2010-01-26
+347,Roland Fjeld,Wanita,Sarjana,Staff,1969-04-30,50,46 to Above,3.03,085247919140,Jawa Barat,1997-11-21
+348,Yoseph Carroll,Pria,Sarjana,Senior Staff,1973-03-22,46,46 to Above,3.27,085247977095,Tangerang,2000-02-24
+349,Melanie Seite,Pria,Sarjana,Senior Staff,1972-07-27,47,46 to Above,3.73,085247975080,Jawa Barat,2000-09-24
+350,Nona Balk,Pria,Sarjana,Staff,1988-04-22,31,20 - 35,3.57,085247977041,Jawa Barat,2016-12-20
+351,Debra Catini,Wanita,Sarjana,Staff,1976-08-03,43,36 - 45,3.58,085247960540,Bali,2003-09-26
+352,Christine Phan,Pria,Sarjana,Staff,1994-03-31,25,20 - 35,3.91,085247990049,Bali,2019-07-24
+353,Barry FranzÃ¶sisch,Wanita,Sarjana,Staff,1983-08-07,36,36 - 45,3.99,085246755122,DKI Jakarta,2008-03-15
+354,Andrew Roberts,Wanita,Pasca-Sarjana,Staff,1989-10-07,30,20 - 35,4.04,085246848185,DKI Jakarta,2015-01-22
+355,Julie Creighton,Pria,Sarjana,Supervisor,1982-11-29,37,36 - 45,4.03,085246919901,DKI Jakarta,2006-08-24
+356,Lisa Hazard,Wanita,Sarjana,Staff,1994-05-19,25,20 - 35,3.9,085247047150,Jawa Barat,2018-05-18
+357,Chris Selesnick,Wanita,Sarjana,Senior Staff,1985-09-26,34,20 - 35,3.53,085247110024,Jawa Barat,2013-04-21
+358,Anthony Johnson,Wanita,Diploma,Supervisor,1984-06-19,35,20 - 35,3.12,085247938109,Jawa Barat,2009-08-21
+359,Laurel Elliston,Pria,Sarjana,Senior Staff,1981-04-01,38,36 - 45,0.0,085247977041,Jawa Barat,2008-06-26
+360,Benjamin Venier,Wanita,Diploma,Secretary,1995-09-13,24,20 - 35,0.0,085247977070,DKI Jakarta,2020-06-15
+361,Dan Lawera,Wanita,Sarjana,Supervisor,1990-11-07,29,20 - 35,3.61,085247935601,DKI Jakarta,2017-01-24
+362,Nick Zandusky,Pria,Sarjana,Manager,1981-07-03,38,36 - 45,3.99,085247994122,DKI Jakarta,2005-03-20
+363,Bryan Mills,Wanita,Sarjana,Supervisor,1970-07-24,49,46 to Above,3.17,085247927707,Jawa Tengah,1994-07-24
+364,Erin Ashbrook,Pria,Sarjana,Staff,1992-08-29,27,20 - 35,4.51,085247960623,Jawa Barat,2020-01-20
+365,Clay Ludtke,Pria,Sarjana,Supervisor,1977-10-28,42,36 - 45,3.99,085246755901,DI Yogyakarta,2001-05-15
+366,Liz Thompson,Wanita,Sarjana,Supervisor,1989-05-29,30,20 - 35,4.0,085246877095,DI Yogyakarta,2016-01-21
+367,Sue Ann Reed,Wanita,Sarjana,Functional Expert,1984-06-26,35,20 - 35,3.85,085246990036,Jawa Barat,2009-02-24
+368,Joe Kamberova,Pria,Sarjana,Manager,1974-06-30,45,36 - 45,3.39,085247055407,Jawa Barat,2000-12-18
+369,Erica Smith,Pria,Sarjana,Manager,1980-12-07,39,36 - 45,3.6,085247197206,Jawa Barat,2008-11-26
+370,Rick Hansen,Wanita,Sarjana,Staff,1986-07-24,33,20 - 35,4.36,085247960462,Tangerang,2011-11-21
+371,David Bremer,Pria,Pra-Sarjana,Supervisor,1977-04-24,42,36 - 45,4.11,085247910035,Jawa Barat,2005-12-18
+372,Carlos Daly,Pria,Pasca-Sarjana,Functional Expert,1978-10-20,41,36 - 45,4.34,085247950322,Jawa Barat,2006-01-17
+373,Helen Wasserman,Pria,Sarjana,Functional Expert,1984-09-08,35,20 - 35,4.0,085247943229,Bali,2010-10-19
+374,Helen Wasserman,Pria,Sarjana,Supervisor,1987-12-04,32,20 - 35,4.36,085247998103,Bali,2012-09-18
+375,Mike Caudle,Pria,Sarjana,Manager,1982-03-31,37,36 - 45,3.8,085247937620,DKI Jakarta,2006-08-23
+376,Gary McGarr,Pria,Sarjana,Staff,1990-10-07,29,20 - 35,4.42,085247919805,DKI Jakarta,2018-03-17
+377,Russell Applegate,Pria,Sarjana,Supervisor,1979-04-20,40,36 - 45,4.16,085246761701,DKI Jakarta,2007-06-26
+378,Allen Armold,Pria,Sarjana,Manager,1978-06-04,41,36 - 45,4.27,085246885023,Jawa Barat,2005-10-26
+379,Zuschuss Carroll,Wanita,Sarjana,Functional Expert,1977-10-19,42,36 - 45,2.88,085246990004,Jawa Barat,2002-07-18
+380,Pauline Johnson,Pria,Sarjana,Staff,1992-11-17,27,20 - 35,4.34,085247043229,Jawa Barat,2017-10-15
+381,Bart Watters,Pria,Sarjana,Staff,1990-09-27,29,20 - 35,4.69,085247195661,Jawa Barat,2016-12-16
+382,Dean Braden,Pria,Sarjana,Manager,1970-06-05,49,46 to Above,3.7,085247995123,DKI Jakarta,1994-12-24
+383,Cynthia Arntzen,Pria,Sarjana,Functional Expert,1989-05-11,30,20 - 35,4.61,085247998105,DKI Jakarta,2016-01-24
+384,Toby Ritter,Pria,Sarjana,Supervisor,1984-05-10,35,20 - 35,3.63,085247998115,DKI Jakarta,2009-02-20
+385,Patrick Gardner,Pria,Sarjana,Manager,1980-07-05,39,36 - 45,3.77,085247973034,Jawa Tengah,2004-01-15
+386,Greg Tran,Pria,Sarjana,Manager,1980-06-04,39,36 - 45,4.2,085247990045,Jawa Barat,2004-05-18
+387,Joel Eaton,Wanita,Sarjana,Staff,1976-08-20,43,36 - 45,4.06,085247919134,DI Yogyakarta,2003-11-17
+388,Jennifer Braxton,Pria,Sarjana,Senior Staff,1982-05-19,37,36 - 45,5.0,085247988220,DI Yogyakarta,2009-01-15
+389,Lisa Hazard,Wanita,Diploma,Functional Expert,1970-08-30,49,46 to Above,3.2,085246778207,Jawa Barat,1997-11-25
+390,James Lanier,Wanita,Diploma,Supervisor,1980-04-13,39,36 - 45,4.0,085246890004,Jawa Barat,2007-11-16
+391,Ed Braxton,Pria,Sarjana,Staff,1991-07-24,28,20 - 35,4.55,085246960623,Jawa Barat,2015-05-20
+392,Brian Moss,Pria,Sarjana,Supervisor,1981-10-30,38,36 - 45,5.0,085247077036,Tangerang,2007-03-25
+393,Eudokia Martin,Wanita,Sarjana,Secretary,1993-07-19,26,20 - 35,0.0,085247143055,Jawa Barat,2017-06-17
+394,Art Foster,Pria,Sarjana,Manager,1978-05-28,41,36 - 45,4.35,085247992374,Jawa Barat,2003-01-26
+395,Guy Armstrong,Pria,Diploma,Supervisor,1978-11-22,41,36 - 45,4.18,085247945011,Bali,2004-05-16
+396,Cyma Kinney,Pria,Sarjana,Supervisor,1988-05-25,31,20 - 35,3.86,08524797090,Bali,2016-12-17
+397,Dave Poirier,Pria,Sarjana,Staff,1991-08-30,28,20 - 35,4.46,085247919120,DKI Jakarta,2015-04-23
+398,Valerie Dominguez,Pria,Sarjana,Supervisor,1981-07-02,38,36 - 45,4.74,085247944312,DKI Jakarta,2008-07-18
+399,Greg Tran,Pria,Sarjana,Manager,1982-06-05,37,36 - 45,3.29,085247980219,DKI Jakarta,2009-11-15
+400,Berenike Kampe,Pria,Sarjana,Manager,1980-10-30,39,36 - 45,3.98,085247975220,Jawa Barat,2007-08-23
+401,Sanjit Jacobs,Pria,Diploma,Staff,1968-10-24,51,46 to Above,3.7,085246790604,Jawa Barat,1994-03-23
+402,Chuck Magee,Wanita,Sarjana,Staff,1975-07-27,44,36 - 45,4.02,085246848601,Jawa Barat,2001-05-17
+403,Anthony Johnson,Pria,Diploma,Functional Expert,1970-08-09,49,46 to Above,4.22,085246975220,Jawa Barat,1994-08-18
+404,Anthony Jacobs,Wanita,Sarjana,Manager,1978-11-07,41,36 - 45,3.49,085247044256,DKI Jakarta,2002-06-16
+405,Linda Southworth,Pria,Sarjana,Staff,1992-04-02,27,20 - 35,4.33,085247190032,DKI Jakarta,2016-06-19
+406,Guy Phonely,Pria,Pasca-Sarjana,Staff,1988-06-22,31,20 - 35,5.0,085247955044,DKI Jakarta,2012-06-15
+407,Paul Knutson,Wanita,Sarjana,Staff,1987-09-26,32,20 - 35,4.68,085247994109,Jawa Tengah,2015-12-15
+408,Tracy Blumstein,Pria,Sarjana,Staff,1994-03-25,25,20 - 35,3.78,085247992037,Jawa Barat,2019-11-24
+409,Sally Matthias,Pria,Sarjana,Supervisor,1970-04-23,49,46 to Above,2.95,085247910024,DI Yogyakarta,1998-03-25
+410,Guy Armstrong,Wanita,Sarjana,Supervisor,1987-05-05,32,20 - 35,3.55,085247960623,DI Yogyakarta,2015-12-23
+411,Chuck Clark,Pria,Sarjana,Staff,1991-03-23,28,20 - 35,4.69,085247910009,Jawa Barat,2015-12-16
+412,Anthony Garverick,Pria,Sarjana,Staff,1988-09-30,31,20 - 35,3.9,085247977506,Jawa Barat,2016-09-23
+413,Harold Pawlan,Pria,Sarjana,Manager,1977-10-19,42,36 - 45,4.02,085246760610,Jawa Barat,2004-10-22
+414,Dave Kipp,Pria,Sarjana,Staff,1993-08-15,26,20 - 35,0.0,085246894513,Tangerang,2020-01-22
+415,Gary Zandusky,Pria,Sarjana,Staff,1992-12-07,27,20 - 35,4.05,085246927514,Jawa Barat,2017-03-16
+416,Peter McVee,Pria,Sarjana,Functional Expert,1988-06-23,31,20 - 35,3.69,08524707960,Jawa Barat,2016-09-23
+417,Lauren Leatherbury,Pria,Sarjana,Functional Expert,1979-07-23,40,36 - 45,3.9,085247145231,Bali,2005-04-21
+418,Jill Stevenson,Pria,Sarjana,Staff,1995-07-31,24,20 - 35,3.75,085247933319,Bali,2019-08-15
+419,Olvera Toch,Pria,Sarjana,Manager,1983-03-21,36,36 - 45,4.42,085247943229,DKI Jakarta,2008-04-23
+420,Ed Ludwig,Pria,Sarjana,Functional Expert,1984-07-11,35,20 - 35,4.64,085247980906,DKI Jakarta,2010-01-26
+421,Cyma Kinney,Pria,Pasca-Sarjana,Staff,1986-10-28,33,20 - 35,4.82,08524797109,DKI Jakarta,2012-10-24
+422,Jeremy Ellison,Pria,Sarjana,Staff,1988-09-01,31,20 - 35,3.33,085247960623,Jawa Barat,2014-04-19
+423,Tracy Hopkins,Pria,Pasca-Sarjana,Manager,1983-06-10,36,36 - 45,4.34,085247910024,Jawa Barat,2010-03-23
+424,Pamela Coakley,Wanita,Sarjana,Manager,1975-11-20,44,36 - 45,3.88,085247948180,Jawa Barat,2000-06-16
+425,Hunter Lopez,Pria,Sarjana,Staff,1996-10-01,23,20 - 35,0.0,085246722204,Jawa Barat,2020-09-20
+426,Maribeth Schnelling,Wanita,Pra-Sarjana,Supervisor,1981-03-23,38,36 - 45,4.5,085246880004,DKI Jakarta,2005-06-16
+427,George Bell,Pria,Sarjana,Manager,1981-05-21,38,36 - 45,4.27,08524697601,DKI Jakarta,2005-07-24
+428,Justin Ritter,Pria,Sarjana,Manager,1976-07-10,43,36 - 45,3.89,085247033710,DKI Jakarta,2001-08-16
+429,Tamara Dahlen,Wanita,Pasca-Sarjana,Staff,1993-09-14,26,20 - 35,4.03,085247119143,Jawa Tengah,2020-11-25
+430,Dave Brooks,Pria,Sarjana,Staff,1991-12-05,28,20 - 35,4.06,085247994122,Jawa Barat,2016-06-17
+431,Logan Currie,Pria,Pasca-Sarjana,Manager,1980-08-18,39,36 - 45,3.86,085247984041,DI Yogyakarta,2007-05-21
+432,Patrick O'Donnell,Pria,Sarjana,Staff,1992-03-19,27,20 - 35,3.02,085247978745,DI Yogyakarta,2016-08-20
+433,Bill Eplett,Pria,Sarjana,Senior Staff,1966-08-13,53,46 to Above,2.75,085247994122,Jawa Barat,1991-04-22
+434,Sample Company A,Pria,Sarjana,Staff,1991-05-27,28,20 - 35,3.53,08524791852,Jawa Barat,2016-11-25
+435,Brian Moss,Pria,Sarjana,Staff,1989-10-01,30,20 - 35,3.67,085247910009,Jawa Barat,2013-05-17
+436,Kelly Lampkin,Pria,Sarjana,Staff,1988-06-08,31,20 - 35,3.8,085247910035,Tangerang,2016-04-19
+437,Rob Williams,Wanita,Pra-Sarjana,Staff,1975-05-26,44,36 - 45,3.72,085246731907,Jawa Barat,2002-05-24
+438,Roy Collins,Pria,Sarjana,Supervisor,1978-06-08,41,36 - 45,3.08,085246810009,Jawa Barat,2006-05-19
+439,Sanjit Engle,Wanita,Sarjana,Staff,1988-05-21,31,20 - 35,3.92,085246994109,Bali,2016-07-22
+440,Adam Hart,Pria,Pasca-Sarjana,Functional Expert,1978-10-01,41,36 - 45,3.84,08524706040,Bali,2002-07-18
+441,Jessica Myrick,Wanita,Sarjana,Secretary,1993-07-24,26,20 - 35,0.0,085247178550,DKI Jakarta,2018-04-21
+442,Joel Jenkins,Pria,Sarjana,Staff,1988-07-30,31,20 - 35,4.64,085247919140,DKI Jakarta,2016-06-20
+443,Alan Barnes,Wanita,Pasca-Sarjana,Staff,1991-05-25,28,20 - 35,4.55,085247945231,DKI Jakarta,2016-10-16
+444,Ralph Kennedy,Pria,Sarjana,Staff,1994-08-06,25,20 - 35,3.57,085247910009,Jawa Barat,2020-09-24
+445,Catherine Glotzbach,Pria,Sarjana,Supervisor,1979-07-05,40,36 - 45,4.5,085247998198,Jawa Barat,2007-07-16
+446,Ruben Ausman,Pria,Diploma,Functional Expert,1973-08-19,46,46 to Above,4.7,085247961604,Jawa Barat,1998-02-18
+447,Rachel Payne,Pria,Sarjana,Manager,1982-11-17,37,36 - 45,3.82,085247989115,Jawa Barat,2009-01-22
+448,Karen Carlisle,Wanita,Diploma,Secretary,1997-04-24,22,20 - 35,0.0,08524792886,DKI Jakarta,2020-11-17
+449,Rob Williams,Pria,Sarjana,Manager,1980-03-29,39,36 - 45,3.75,085246777036,DKI Jakarta,2005-10-25
+450,John Lucas,Pria,Sarjana,Manager,1982-04-30,37,36 - 45,3.46,085246833180,DKI Jakarta,2008-07-17
+451,Cynthia Arntzen,Pria,Sarjana,Functional Expert,1984-05-04,35,20 - 35,4.7,085246928403,Jawa Tengah,2011-02-26
+452,Ross Baird,Wanita,Sarjana,Supervisor,1980-12-08,39,36 - 45,4.4,085247010024,Jawa Barat,2005-12-21
+453,Katherine Hughes,Pria,Sarjana,Staff,1994-04-18,25,20 - 35,4.0,085247194110,DI Yogyakarta,2018-11-15
+454,Greg Hansen,Pria,Sarjana,Functional Expert,1979-09-30,40,36 - 45,4.05,085247939212,DI Yogyakarta,2006-01-16
+455,Scott Williamson,Pria,Sarjana,Staff,1986-11-21,33,20 - 35,4.0,085247948187,Jawa Barat,2012-11-19
+456,Joseph Airdo,Pria,Sarjana,Functional Expert,1987-05-10,32,20 - 35,4.7,085247910801,Jawa Barat,2012-11-16
+457,Daniel Lacy,Pria,Sarjana,Manager,1965-10-07,54,46 to Above,4.0,085247978207,Jawa Barat,1989-07-23
+458,Lindsay Williams,Pria,Sarjana,Staff,1985-09-28,34,20 - 35,4.81,085247928052,Tangerang,2012-09-19
+459,Thomas Brumley,Pria,Sarjana,Functional Expert,1986-10-19,33,20 - 35,4.0,08524791852,Jawa Barat,2014-02-23
+460,Cynthia Voltz,Pria,Sarjana,Staff,1990-07-05,29,20 - 35,4.21,085247932216,Jawa Barat,2015-05-21
+461,Maribeth Schnelling,Pria,Pasca-Sarjana,Functional Expert,1983-07-31,36,36 - 45,3.74,085246777070,Bali,2010-10-22
+462,Bryan Spruell,Pria,Sarjana,Staff,1994-07-30,25,20 - 35,3.31,085246810024,Bali,2018-06-26
+463,Delfina Latchford,Pria,Sarjana,Supervisor,1989-04-03,30,20 - 35,4.27,085246948227,DKI Jakarta,2017-11-20
+464,Phillina Ober,Pria,Sarjana,Supervisor,1983-09-28,36,36 - 45,3.92,085247047201,DKI Jakarta,2007-12-15
+465,Tamara Dahlen,Wanita,Sarjana,Senior Staff,1973-05-01,46,46 to Above,3.5,085247113021,DKI Jakarta,2000-04-25
+466,Bart Watters,Pria,Sarjana,Staff,1989-06-22,30,20 - 35,4.0,085247979109,Jawa Barat,2014-06-23
+467,Robert Waldorf,Wanita,Sarjana,Secretary,1994-11-15,25,20 - 35,0.0,085247960610,Jawa Barat,2020-05-25
+468,Ken Brennan,Pria,Pasca-Sarjana,Functional Expert,1977-05-15,42,36 - 45,4.45,085247911757,Jawa Barat,2002-01-16
+469,Emily Burns,Pria,Diploma,Staff,1974-10-22,45,36 - 45,3.7,085247994110,Jawa Barat,1999-05-19
+470,Tracy Zic,Pria,Sarjana,Functional Expert,1980-04-06,39,36 - 45,4.47,085247990008,DKI Jakarta,2005-09-15
+471,Ann Steele,Pria,Sarjana,Staff,1992-05-06,27,20 - 35,4.61,085247912180,DKI Jakarta,2016-02-25
+472,Toby Swindell,Wanita,Sarjana,Manager,1971-08-08,48,46 to Above,3.71,085247910024,DKI Jakarta,1999-07-26
+473,John Grady,Pria,Sarjana,Supervisor,1985-10-02,34,20 - 35,4.06,085246710024,Jawa Tengah,2010-03-25
+474,Sara Luxemburg,Pria,Pasca-Sarjana,Functional Expert,1987-07-26,32,20 - 35,4.5,085246890045,Jawa Barat,2011-08-26
+475,Troy Staebel,Pria,Sarjana,Staff,1994-09-14,25,20 - 35,4.27,085246960610,DI Yogyakarta,2020-09-21
+476,Roland Fjeld,Pria,Pra-Sarjana,Supervisor,1969-05-28,50,46 to Above,4.0,085247077340,DI Yogyakarta,1993-06-17
+477,Mitch Willingham,Pria,Sarjana,Manager,1980-10-05,39,36 - 45,3.35,085247114609,Jawa Barat,2005-03-15
+478,Rob Dowd,Pria,Sarjana,Supervisor,1971-11-04,48,46 to Above,4.17,085247964118,Jawa Barat,1995-01-20
+479,Frank Merwin,Pria,Sarjana,Staff,1994-09-26,25,20 - 35,4.52,085247943055,Jawa Barat,2020-01-19
+480,Rick Hansen,Pria,Sarjana,Supervisor,1984-04-12,35,20 - 35,4.23,085247990049,Tangerang,2012-05-20
+481,Ryan Akin,Pria,Sarjana,Staff,1994-07-15,25,20 - 35,3.92,085247959405,Jawa Barat,2020-10-25
+482,Joe Kamberova,Pria,Sarjana,Staff,1994-10-19,25,20 - 35,0.0,085247977041,Jawa Barat,2018-01-23
+483,Meg Tillman,Wanita,Diploma,Staff,1978-06-14,41,36 - 45,3.92,085247948234,Bali,2004-05-22
+484,Patrick O'Brill,Pria,Sarjana,Functional Expert,1983-08-25,36,36 - 45,4.23,085247990032,Bali,2011-10-24
+485,Annie Thurman,Wanita,Sarjana,Staff,1983-05-01,36,36 - 45,4.21,085246733801,DKI Jakarta,2008-06-16
+486,Vivek Gonzalez,Pria,Sarjana,Manager,1983-06-10,36,36 - 45,4.31,085246819134,DKI Jakarta,2009-07-26
+487,Philip Fox,Pria,Sarjana,Staff,1983-10-05,36,36 - 45,4.14,085246990036,DKI Jakarta,2011-02-19
+488,John Stevenson,Pria,Sarjana,Manager,1980-04-26,39,36 - 45,4.42,085247090032,Jawa Barat,2004-01-25
+489,Meg O'Connel,Wanita,Sarjana,Staff,1988-06-21,31,20 - 35,2.9,085247136116,Jawa Barat,2014-07-20
+490,Kalyca Meade,Wanita,Sarjana,Supervisor,1980-10-08,39,36 - 45,4.27,085247976106,Jawa Barat,2007-12-25
+491,Greg Tran,Pria,Sarjana,Supervisor,1978-09-11,41,36 - 45,3.96,085247910035,Jawa Barat,2003-06-22
+492,Philip Brown,Pria,Sarjana,Senior Staff,1970-06-06,49,46 to Above,3.61,085247960653,DKI Jakarta,1996-01-24
+493,Hallie Redmond,Pria,Pasca-Sarjana,Supervisor,1987-10-05,32,20 - 35,4.53,085247994110,DKI Jakarta,2011-12-17
+494,Deanra Eno,Wanita,Sarjana,Staff,1990-08-08,29,20 - 35,4.07,085247932216,DKI Jakarta,2017-04-26
+495,Laura Armstrong,Wanita,Pra-Sarjana,Staff,1977-08-01,42,36 - 45,2.89,085247977070,Jawa Tengah,2003-06-20
+496,Allen Goldenen,Pria,Sarjana,Functional Expert,1979-04-15,40,36 - 45,3.57,085247992804,Jawa Barat,2003-02-20
+497,Ed Ludwig,Pria,Diploma,Staff,1979-06-20,40,36 - 45,3.93,085246790045,DI Yogyakarta,2005-05-23
+498,Jennifer Jackson,Pria,Sarjana,Manager,1985-08-20,34,20 - 35,3.49,085246894110,DI Yogyakarta,2009-05-25
+499,Jennifer Halladay,Pria,Sarjana,Manager,1968-12-06,51,46 to Above,4.37,085246933614,Jawa Barat,1992-06-25
+500,Robert Dilbeck,Wanita,Sarjana,Staff,1992-07-02,27,20 - 35,3.82,085247098105,Jawa Barat,2016-07-24
+501,Mary O'Rourke,Pria,Sarjana,Functional Expert,1982-05-23,37,36 - 45,4.84,085247190008,Jawa Barat,2007-11-15
+502,Noel Staavos,Pria,Sarjana,Supervisor,1983-07-26,36,36 - 45,3.77,085247940475,Tangerang,2008-06-26
+503,Steve Nguyen,Pria,Sarjana,Supervisor,1982-10-10,37,36 - 45,4.66,085247997301,Jawa Barat,2008-07-21
+504,Zuschuss Carroll,Pria,Sarjana,Staff,1992-06-10,27,20 - 35,5.0,085247978041,Jawa Barat,2020-07-20
+505,Lena Creighton,Wanita,Sarjana,Manager,1974-08-23,45,36 - 45,3.73,085247992024,Bali,2002-12-25
+506,Deirdre Greer,Pria,Diploma,Manager,1972-04-13,47,46 to Above,3.8,085247919134,Bali,1997-11-18
+507,Nicole Fjeld,Pria,Sarjana,Staff,1991-09-24,28,20 - 35,3.49,085247919120,DKI Jakarta,2015-05-21
+508,Ben Peterman,Wanita,Sarjana,Supervisor,1976-09-12,43,36 - 45,3.93,085247933614,DKI Jakarta,2002-06-22
+509,Matthew Grinstein,Pria,Sarjana,Staff,1989-08-10,30,20 - 35,3.73,085246775217,DKI Jakarta,2014-09-26
+510,Julia Dunbar,Pria,Sarjana,Staff,1992-05-06,27,20 - 35,4.24,085246819143,Jawa Barat,2017-12-19
+511,Theresa Swint,Pria,Sarjana,Staff,1994-10-13,25,20 - 35,3.78,085246943123,Jawa Barat,2020-06-17
+512,Brian DeCherney,Pria,Pra-Sarjana,Supervisor,1976-10-31,43,36 - 45,3.99,085247010011,Jawa Barat,2003-05-19
+513,Charles McCrossin,Wanita,Pasca-Sarjana,Senior Staff,1968-07-10,51,46 to Above,3.97,085247160610,Jawa Barat,1993-03-23
+514,Ross Baird,Pria,Sarjana,Manager,1968-05-27,51,46 to Above,3.18,085247980013,DKI Jakarta,1996-02-16
+515,Skye Norling,Pria,Diploma,Manager,1980-04-06,39,36 - 45,3.75,085247994591,DKI Jakarta,2007-04-17
+516,Erica Hernandez,Wanita,Sarjana,Functional Expert,1981-07-30,38,36 - 45,2.91,085247955407,DKI Jakarta,2009-12-24
+517,Frank Olsen,Pria,Pasca-Sarjana,Manager,1974-05-03,45,36 - 45,3.69,085247992691,Jawa Tengah,1998-04-22
+518,Maurice Satty,Pria,Pasca-Sarjana,Staff,1992-03-18,27,20 - 35,3.79,085247948307,Jawa Barat,2020-02-24
+519,Chad Cunningham,Pria,Sarjana,Staff,1989-04-22,30,20 - 35,4.71,08524797060,DI Yogyakarta,2016-02-26
+520,Don Weiss,Pria,Sarjana,Staff,1989-05-23,30,20 - 35,3.96,085247947201,DI Yogyakarta,2013-09-17
+521,Bill Tyler,Pria,Sarjana,Supervisor,1981-08-03,38,36 - 45,4.32,085246798661,Jawa Barat,2009-06-23
+522,Karen Daniels,Pria,Sarjana,Staff,1993-10-01,26,20 - 35,3.74,085246810024,Jawa Barat,2018-04-15
+523,Lena Cacioppo,Pria,Pasca-Sarjana,Staff,1992-05-27,27,20 - 35,4.71,085246910035,Jawa Barat,2018-03-21
+524,Craig Yedwab,Pria,Pasca-Sarjana,Senior Staff,1966-09-24,53,46 to Above,3.36,085247043229,Tangerang,1994-05-21
+525,Lindsay Williams,Pria,Sarjana,Manager,1977-05-08,42,36 - 45,4.02,085247160505,Jawa Barat,2001-03-21
+526,Naresj Patel,Pria,Sarjana,Staff,1991-10-18,28,20 - 35,4.38,085247947201,Jawa Barat,2017-03-15
+527,Brad Thomas,Wanita,Sarjana,Functional Expert,1989-06-05,30,20 - 35,4.01,085247975701,Bali,2017-11-17
+528,Penelope Sewall,Pria,Sarjana,Senior Staff,1975-10-04,44,36 - 45,4.06,085247910024,Bali,1999-12-17
+529,Noel Staavos,Pria,Sarjana,Functional Expert,1987-09-07,32,20 - 35,3.6,085247927217,DKI Jakarta,2013-10-16
+530,Paul Van Hugh,Pria,Sarjana,Manager,1978-07-28,41,36 - 45,4.09,085247939212,DKI Jakarta,2003-06-26
+531,Resi PÃ¶lking,Pria,Sarjana,Manager,1981-03-25,38,36 - 45,3.43,085247910035,DKI Jakarta,2006-01-24
+532,Neoma Murray,Pria,Sarjana,Supervisor,1982-11-20,37,36 - 45,4.44,085247922980,Jawa Barat,2007-05-17
+533,Eric Hoffmann,Pria,Pasca-Sarjana,Manager,1973-04-09,46,46 to Above,2.88,085246719013,Jawa Barat,1998-07-24
+534,Russell Applegate,Wanita,Sarjana,Staff,1997-06-21,22,20 - 35,0.0,085246844105,Jawa Barat,2020-04-26
+535,Dionis Lloyd,Pria,Sarjana,Staff,1980-04-04,39,36 - 45,3.73,085246998103,Jawa Barat,2006-05-19
+536,Christine Sundaresam,Pria,Sarjana,Staff,1991-12-07,28,20 - 35,4.59,085247090805,DKI Jakarta,2019-10-17
+537,Hunter Lopez,Pria,Sarjana,Supervisor,1982-07-28,37,36 - 45,4.06,085247127511,DKI Jakarta,2006-03-18
+538,Pete Armstrong,Pria,Sarjana,Staff,1989-07-26,30,20 - 35,4.74,085247984057,DKI Jakarta,2016-03-19
+539,Brian Dahlen,Pria,Sarjana,Supervisor,1980-06-19,39,36 - 45,4.41,085247990045,Jawa Tengah,2005-04-24
+540,Greg Guthrie,Pria,Sarjana,Senior Staff,1973-12-01,46,46 to Above,2.68,085247948205,Jawa Barat,2000-08-24
+541,Joni Sundaresam,Pria,Pasca-Sarjana,Manager,1979-12-01,40,36 - 45,4.5,085247919140,DI Yogyakarta,2004-07-22
+542,Lena Radford,Pria,Pasca-Sarjana,Senior Staff,1971-07-27,48,46 to Above,4.01,085247933012,DI Yogyakarta,1996-11-26
+543,Frank Hawley,Pria,Sarjana,Manager,1980-07-18,39,36 - 45,3.86,085247978745,Jawa Barat,2007-01-26
+544,Arthur Prichep,Wanita,Sarjana,Functional Expert,1976-08-21,43,36 - 45,3.53,085247911572,Jawa Barat,2001-04-20
+545,Nat Carroll,Pria,Pasca-Sarjana,Functional Expert,1985-05-11,34,20 - 35,3.91,085246794110,Jawa Barat,2009-03-21
+546,Claudia Bergmann,Pria,Sarjana,Manager,1981-06-29,38,36 - 45,4.03,085246860540,Tangerang,2006-07-21
+547,Kelly Lampkin,Pria,Pasca-Sarjana,Functional Expert,1992-04-17,27,20 - 35,3.66,085246975220,Jawa Barat,2020-12-25
+548,Penelope Sewall,Pria,Sarjana,Manager,1976-06-14,43,36 - 45,4.12,085247092105,Jawa Barat,2000-11-18
+549,George Bell,Wanita,Pasca-Sarjana,Supervisor,1972-07-28,47,46 to Above,3.45,085247160201,Bali,1996-10-18
+550,Alex Avila,Pria,Pasca-Sarjana,Functional Expert,1984-05-25,35,20 - 35,3.94,085247990004,Bali,2010-05-20
+551,Larry Tron,Pria,Sarjana,Senior Staff,1969-08-09,50,46 to Above,3.34,085247930318,DKI Jakarta,1996-02-23
+552,Anne Pryor,Pria,Sarjana,Staff,1993-08-30,26,20 - 35,3.94,085247943229,DKI Jakarta,2020-07-18
+553,Paul MacIntyre,Pria,Pasca-Sarjana,Supervisor,1979-04-06,40,36 - 45,3.75,085247971111,DKI Jakarta,2004-07-15
+554,Kelly Collister,Pria,Sarjana,Senior Staff,1968-10-27,51,46 to Above,3.34,085247933710,Jawa Barat,1996-10-21
+555,Delfina Latchford,Pria,Pasca-Sarjana,Staff,1989-04-11,30,20 - 35,4.0,085247922204,Jawa Barat,2017-01-21
+556,Scott Williamson,Pria,Sarjana,Manager,1970-04-24,49,46 to Above,4.15,085247950315,Jawa Barat,1997-01-18
+557,Allen Armold,Pria,Diploma,Functional Expert,1973-10-30,46,46 to Above,0.0,085246794110,Jawa Barat,2000-05-23
+558,Liz Thompson,Pria,Sarjana,Functional Expert,1983-12-04,36,36 - 45,3.78,085246843229,DKI Jakarta,2009-06-15
+559,Dave Poirier,Wanita,Sarjana,Supervisor,1982-05-10,37,36 - 45,3.85,085246929203,DKI Jakarta,2007-06-26
+560,Adam Bellavance,Pria,Sarjana,Functional Expert,1984-11-01,35,20 - 35,3.88,085247093534,DKI Jakarta,2011-03-25
+561,Alyssa Tate,Pria,Sarjana,Staff,1995-08-23,24,20 - 35,0.0,085247193534,Jawa Tengah,2020-10-20
+562,Joel Eaton,Pria,Sarjana,Staff,1994-10-15,25,20 - 35,4.39,085247910024,Jawa Barat,2018-11-21
+563,Cathy Armstrong,Pria,Sarjana,Manager,1981-09-26,38,36 - 45,4.3,085247971203,DI Yogyakarta,2006-06-25
+564,Dave Brooks,Pria,Diploma,Manager,1976-07-13,43,36 - 45,3.94,085247994122,DI Yogyakarta,2000-09-23
+565,Rob Beeghly,Pria,Sarjana,Supervisor,1969-07-01,50,46 to Above,2.98,085247980219,Jawa Barat,1997-11-21
+566,Harold Ryan,Wanita,Diploma,Staff,1971-05-30,48,46 to Above,4.0,085247968104,Jawa Barat,1998-02-20
+567,Bradley Talbott,Pria,Sarjana,Supervisor,1977-09-28,42,36 - 45,4.67,085247998026,Jawa Barat,2005-06-22
+568,Nat Gilpin,Pria,Sarjana,Supervisor,1984-09-23,35,20 - 35,4.23,085247992704,Tangerang,2009-12-16
+569,Zuschuss Carroll,Pria,Sarjana,Functional Expert,1969-04-09,50,46 to Above,3.67,085246719140,Jawa Barat,1994-02-24
+570,Linda Southworth,Pria,Pra-Sarjana,Staff,1972-11-01,47,46 to Above,3.75,085246819140,Jawa Barat,1999-11-15
+571,Larry Hughes,Pria,Sarjana,Staff,1981-06-06,38,36 - 45,3.91,08524697109,Bali,2008-02-26
+572,Steven Ward,Pria,Sarjana,Functional Expert,1976-11-17,43,36 - 45,3.96,085247094110,Bali,2004-03-26
+573,Stefania Perrino,Pria,Sarjana,Supervisor,1987-04-25,32,20 - 35,4.15,085247155044,DKI Jakarta,2013-10-23
+574,Ben Ferrer,Pria,Sarjana,Staff,1993-09-30,26,20 - 35,4.15,085247940214,DKI Jakarta,2020-06-17
+575,Becky Martin,Wanita,Pasca-Sarjana,Senior Staff,1969-11-11,50,46 to Above,3.25,085247944052,DKI Jakarta,1997-12-24
+576,Zuschuss Carroll,Pria,Diploma,Supervisor,1980-11-04,39,36 - 45,4.0,08524797036,Jawa Barat,2008-08-24
+577,Kean Thornton,Wanita,Sarjana,Manager,1977-09-10,42,36 - 45,4.38,085247993905,Jawa Barat,2003-09-16
+578,Brooke Gillingham,Pria,Sarjana,Staff,1992-05-03,27,20 - 35,4.08,085247939212,Jawa Barat,2016-07-26
+579,Patrick Gardner,Pria,Sarjana,Manager,1981-04-28,38,36 - 45,4.06,085247910035,Jawa Barat,2009-04-20
+580,Greg Matthias,Pria,Sarjana,Staff,1994-09-18,25,20 - 35,4.51,085247910035,DKI Jakarta,2020-10-26
+581,Meg O'Connel,Pria,Sarjana,Supervisor,1973-11-18,46,46 to Above,4.06,085246794122,DKI Jakarta,1997-11-20
+582,Patrick Gardner,Pria,Sarjana,Staff,1994-06-17,25,20 - 35,4.43,085246832216,DKI Jakarta,2020-09-26
+583,Eva Jacobs,Pria,Sarjana,Functional Expert,1990-07-05,29,20 - 35,4.0,085246922153,Jawa Tengah,2015-09-26
+584,Nora Preis,Pria,Sarjana,Staff,1974-12-08,45,36 - 45,3.96,085247019140,Jawa Barat,2000-03-22
+585,Doug Jacobs,Wanita,Sarjana,Manager,1975-05-01,44,36 - 45,3.92,085247117602,DI Yogyakarta,2001-01-24
+586,Irene Maddox,Pria,Sarjana,Senior Staff,1972-09-08,47,46 to Above,3.33,085247922153,DI Yogyakarta,1996-04-17
+587,Mick Hernandez,Pria,Pasca-Sarjana,Manager,1971-04-15,48,46 to Above,4.18,085247994109,Jawa Barat,1998-02-16
+588,Ross Baird,Pria,Pasca-Sarjana,Manager,1980-08-25,39,36 - 45,3.2,085247948227,Jawa Barat,2007-07-18
+589,Jocasta Rupert,Pria,Sarjana,Manager,1981-09-03,38,36 - 45,5.0,085247914609,Jawa Barat,2008-02-23
+590,Suzanne McNair,Pria,Pasca-Sarjana,Manager,1969-11-22,50,46 to Above,3.38,085247990045,Tangerang,1995-11-26
+591,Christine Sundaresam,Wanita,Sarjana,Staff,1979-04-07,40,36 - 45,3.94,085247992105,Jawa Barat,2005-08-15
+592,Chris Cortes,Pria,Sarjana,Staff,1981-05-02,38,36 - 45,3.85,085247921044,Jawa Barat,2006-07-22
+593,Phillip Flathmann,Wanita,Diploma,Functional Expert,1978-04-24,41,36 - 45,3.88,085246710801,Bali,2004-10-20
+594,Julie Creighton,Wanita,Pasca-Sarjana,Functional Expert,1981-08-02,38,36 - 45,4.16,085246848227,Bali,2006-01-18
+595,Brooke Gillingham,Pria,Sarjana,Staff,1990-07-31,29,20 - 35,4.02,085246994122,DKI Jakarta,2018-12-22
+596,Dan Campbell,Pria,Sarjana,Manager,1980-06-21,39,36 - 45,3.78,085247077095,DKI Jakarta,2005-04-17
+597,Sibella Parks,Pria,Sarjana,Functional Expert,1989-07-03,30,20 - 35,3.58,085247148227,DKI Jakarta,2014-10-26
+598,Maurice Satty,Pria,Sarjana,Functional Expert,1987-11-14,32,20 - 35,4.46,08524796360,Jawa Barat,2012-08-22
+599,Bryan Davis,Pria,Sarjana,Staff,1991-12-07,28,20 - 35,3.95,085247953209,Jawa Barat,2015-12-16
+600,Karen Carlisle,Wanita,Sarjana,Manager,1977-04-12,42,36 - 45,3.75,085247978207,Jawa Barat,2005-06-25
+601,Toby Ritter,Pria,Sarjana,Manager,1979-08-26,40,36 - 45,4.21,085247975220,Jawa Barat,2003-09-25
+602,Sue Ann Reed,Pria,Sarjana,Senior Staff,1972-07-23,47,46 to Above,4.73,085247922304,DKI Jakarta,1998-08-25
+603,Katrina Willman,Pria,Sarjana,Supervisor,1984-05-12,35,20 - 35,4.71,085247910009,DKI Jakarta,2009-10-18
+604,Gene McClure,Wanita,Sarjana,Staff,1978-08-23,41,36 - 45,3.53,085247910011,DKI Jakarta,2004-06-20
+605,Alan Dominguez,Wanita,Pasca-Sarjana,Staff,1989-09-26,30,20 - 35,4.0,085246722153,Jawa Tengah,2017-04-22
+606,Todd Boyes,Pria,Sarjana,Senior Staff,1980-06-25,39,36 - 45,4.29,085246843615,Jawa Barat,2006-09-17
+607,Chuck Clark,Pria,Sarjana,Supervisor,1979-12-07,40,36 - 45,3.13,085246919140,DI Yogyakarta,2005-08-15
+608,Philip Fox,Pria,Pasca-Sarjana,Manager,1970-04-17,49,46 to Above,3.11,085247019120,DI Yogyakarta,1997-11-18
+609,Justin Hirsh,Pria,Sarjana,Staff,1993-07-10,26,20 - 35,3.99,085247187401,Jawa Barat,2020-07-26
+610,Erica Bern,Pria,Sarjana,Manager,1976-06-04,43,36 - 45,4.0,085247978664,Jawa Barat,2002-02-24
+611,Quincy Jones,Pria,Sarjana,Functional Expert,1969-07-06,50,46 to Above,3.3,085247939212,Jawa Barat,1997-02-26
+612,Alex Avila,Pria,Pasca-Sarjana,Functional Expert,1984-10-24,35,20 - 35,4.77,085247985023,Tangerang,2011-03-25
+613,Logan Currie,Pria,Sarjana,Supervisor,1979-11-29,40,36 - 45,4.26,085247992054,Jawa Barat,2007-04-16
+614,Tracy Collins,Pria,Sarjana,Functional Expert,1993-06-05,26,20 - 35,4.57,085247994110,Jawa Barat,2017-03-24
+615,Chuck Sachs,Pria,Pasca-Sarjana,Staff,1990-10-28,29,20 - 35,3.93,085247972701,Bali,2015-02-21
+616,Bryan Mills,Pria,Sarjana,Supervisor,1983-10-31,36,36 - 45,4.43,085247994110,Bali,2010-06-26
+617,Roy Collins,Pria,Sarjana,Functional Expert,1964-04-26,55,46 to Above,4.23,085246710011,DKI Jakarta,1989-02-22
+618,Fred McMath,Pria,Sarjana,Staff,1994-11-23,25,20 - 35,4.6,085246819134,DKI Jakarta,2020-12-24
+619,Pete Kriz,Pria,Sarjana,Supervisor,1976-07-22,43,36 - 45,4.49,085246910011,DKI Jakarta,2001-01-23
+620,Henry Goldwyn,Pria,Sarjana,Supervisor,1981-10-27,38,36 - 45,3.89,085247097206,Jawa Barat,2006-11-18
+621,Helen Andreada,Pria,Sarjana,Manager,1965-07-15,54,46 to Above,3.96,085247148205,Jawa Barat,1991-10-15
+622,Laurel Workman,Pria,Sarjana,Functional Expert,1968-07-27,51,46 to Above,2.67,085247932216,Jawa Barat,1992-05-20
+623,Matt Collins,Pria,Sarjana,Manager,1978-09-09,41,36 - 45,3.86,085247910024,Jawa Barat,2005-02-23
+624,Liz Preis,Pria,Sarjana,Staff,1994-04-20,25,20 - 35,0.0,085247995123,DKI Jakarta,2018-06-25
+625,Evan Bailliet,Pria,Sarjana,Manager,1969-04-29,50,46 to Above,3.45,085247923464,DKI Jakarta,1994-11-23
+626,George Zrebassa,Pria,Sarjana,Functional Expert,1982-10-18,37,36 - 45,4.31,085247942420,DKI Jakarta,2007-01-19
+627,Laurel Elliston,Pria,Sarjana,Supervisor,1985-04-26,34,20 - 35,4.16,085247998661,Jawa Tengah,2010-01-16
+628,Alan Dominguez,Pria,Sarjana,Staff,1995-11-16,24,20 - 35,4.16,085247910024,Jawa Barat,2019-02-23
+629,Cathy Prescott,Pria,Sarjana,Senior Staff,1971-06-05,48,46 to Above,4.74,085246728540,DI Yogyakarta,1996-01-25
+630,Frank Gastineau,Pria,Sarjana,Functional Expert,1976-07-03,43,36 - 45,4.36,085246885254,DI Yogyakarta,2000-11-25
+631,Lisa DeCherney,Pria,Diploma,Supervisor,1974-07-28,45,36 - 45,3.7,085246952601,Jawa Barat,1998-10-26
+632,Alejandro Ballentine,Pria,Sarjana,Staff,1994-07-25,25,20 - 35,4.22,085247060653,Jawa Barat,2020-10-18
+633,Michael Nguyen,Pria,Sarjana,Staff,1993-06-03,26,20 - 35,3.73,085246790036,Jawa Barat,2017-01-20
+634,Harold Pawlan,Pria,Sarjana,Functional Expert,1982-06-08,37,36 - 45,3.96,085246833311,Tangerang,2009-11-15
+635,Jim Radford,Pria,Sarjana,Staff,1975-07-08,44,36 - 45,4.16,085246990032,Jawa Barat,2000-04-16
+636,Jamie Frazer,Pria,Sarjana,Staff,1991-11-29,28,20 - 35,4.0,085247028027,Jawa Barat,2018-10-16
+637,Chad McGuire,Pria,Sarjana,Manager,1981-03-30,38,36 - 45,3.24,085247198103,Bali,2008-02-18
+638,Aaron Smayling,Pria,Sarjana,Supervisor,1987-07-31,32,20 - 35,4.04,085247990049,Bali,2013-02-16
+639,Karl Braun,Pria,Sarjana,Staff,1989-08-17,30,20 - 35,3.54,085247919140,DKI Jakarta,2016-09-19
+640,Bradley Nguyen,Pria,Sarjana,Staff,1988-12-07,31,20 - 35,4.22,085247977095,DKI Jakarta,2013-06-22
+641,Beth Paige,Pria,Sarjana,Functional Expert,1977-09-25,42,36 - 45,4.4,085247975080,DKI Jakarta,2003-04-15
+642,Aaron Smayling,Wanita,Sarjana,Secretary,1995-12-03,24,20 - 35,0.0,085247977041,Jawa Barat,2019-07-23
+643,Lindsay Williams,Pria,Diploma,Functional Expert,1975-08-11,44,36 - 45,4.06,085247960540,Jawa Barat,2000-06-16
+644,Dan Campbell,Pria,Sarjana,Supervisor,1987-11-09,32,20 - 35,4.08,085247990049,Jawa Barat,2013-03-26
+645,Natalie DeCherney,Pria,Sarjana,Supervisor,1988-08-05,31,20 - 35,4.75,085246755122,Jawa Barat,2014-07-20
+646,Larry Blacks,Pria,Sarjana,Senior Staff,1964-10-15,55,46 to Above,3.31,085246848185,DKI Jakarta,1992-03-22
+647,Kean Takahito,Pria,Pasca-Sarjana,Supervisor,1988-04-08,31,20 - 35,4.57,085246919901,DKI Jakarta,2012-03-17
+648,Harry Marie,Pria,Sarjana,Manager,1977-11-09,42,36 - 45,3.45,085247047150,DKI Jakarta,2005-01-22
+649,Ann Blume,Pria,Sarjana,Supervisor,1982-06-22,37,36 - 45,3.89,085247110024,Jawa Tengah,2007-12-18
+650,Sam Zeldin,Pria,Sarjana,Staff,1995-08-31,24,20 - 35,3.81,085247938109,Jawa Barat,2020-06-17
+651,Jim Radford,Pria,Pasca-Sarjana,Manager,1981-05-30,38,36 - 45,4.14,085247977041,DI Yogyakarta,2007-01-23
+652,Michael Granlund,Pria,Sarjana,Supervisor,1974-08-02,45,36 - 45,4.11,085247977070,DI Yogyakarta,2000-02-26
+653,Kunst Miller,Pria,Sarjana,Staff,1994-12-06,25,20 - 35,3.69,085247935601,Jawa Barat,2020-10-26
+654,Christina Anderson,Pria,Sarjana,Functional Expert,1981-08-25,38,36 - 45,4.54,085247994122,Jawa Barat,2008-11-23
+655,Valerie Dominguez,Wanita,Sarjana,Staff,1982-12-04,37,36 - 45,4.07,085247927707,Jawa Barat,2008-12-22
+656,Julie Kriz,Pria,Sarjana,Staff,1980-12-07,39,36 - 45,3.76,085247960623,Tangerang,2007-12-19
+657,Paul Prost,Pria,Sarjana,Manager,1983-09-05,36,36 - 45,3.47,085246755901,Jawa Barat,2009-11-23
+658,Yana Sorensen,Wanita,Sarjana,Staff,1991-10-20,28,20 - 35,4.0,085246877095,Jawa Barat,2017-01-21
+659,Cyma Kinney,Pria,Pasca-Sarjana,Supervisor,1978-08-08,41,36 - 45,4.2,085246990036,Bali,2006-06-26
+660,Nat Carroll,Pria,Sarjana,Supervisor,1988-10-30,31,20 - 35,4.07,085247055407,Bali,2016-09-23
+661,Katherine Murray,Wanita,Sarjana,Manager,1981-04-06,38,36 - 45,3.4,085247197206,DKI Jakarta,2008-09-21
+662,Gary Mitchum,Pria,Pra-Sarjana,Supervisor,1976-09-29,43,36 - 45,2.84,085247960462,DKI Jakarta,2002-07-16
+663,Shirley Daniels,Wanita,Diploma,Functional Expert,1969-03-30,50,46 to Above,4.03,085247910035,DKI Jakarta,1994-06-16
+664,Karen Daniels,Pria,Sarjana,Staff,1986-07-12,33,20 - 35,3.97,085247950322,Jawa Barat,2014-05-17
+665,Adrian Barton,Wanita,Sarjana,Supervisor,1983-08-20,36,36 - 45,4.14,085247943229,Jawa Barat,2009-07-24
+666,Sam Zeldin,Pria,Sarjana,Functional Expert,1978-07-07,41,36 - 45,3.58,085247998103,Jawa Barat,2005-07-20
+667,Jonathan Doherty,Pria,Sarjana,Staff,1984-08-16,35,20 - 35,4.56,085247937620,Jawa Barat,2009-08-15
+668,Helen Abelman,Pria,Sarjana,Manager,1982-06-01,37,36 - 45,3.7,085247919805,DKI Jakarta,2006-03-20
+669,Beth Thompson,Pria,Sarjana,Manager,1978-12-02,41,36 - 45,3.98,085246761701,DKI Jakarta,2006-11-20
+670,Stuart Van,Wanita,Sarjana,Manager,1971-06-08,48,46 to Above,3.94,085246885023,DKI Jakarta,1997-02-22
+671,Rick Wilson,Wanita,Sarjana,Staff,1989-06-24,30,20 - 35,4.05,085246990004,Jawa Tengah,2015-07-23
+672,Damala Kotsonis,Pria,Sarjana,Staff,1990-09-22,29,20 - 35,4.0,085247043229,Jawa Barat,2018-07-18
+673,Liz Thompson,Wanita,Pasca-Sarjana,Manager,1980-08-12,39,36 - 45,4.16,085247195661,DI Yogyakarta,2004-06-19
+674,Irene Maddox,Pria,Sarjana,Supervisor,1980-12-05,39,36 - 45,3.88,085247995123,DI Yogyakarta,2008-03-22
+675,Frank Preis,Wanita,Sarjana,Staff,1995-06-25,24,20 - 35,0.0,085247998105,Jawa Barat,2020-04-22
+676,Shui Tom,Pria,Sarjana,Manager,1978-08-31,41,36 - 45,3.83,085247998115,Jawa Barat,2006-04-21
+677,Joel Eaton,Pria,Sarjana,Manager,1978-07-23,41,36 - 45,3.64,085247973034,Jawa Barat,2004-03-24
+678,Bill Donatelli,Pria,Sarjana,Functional Expert,1987-08-26,32,20 - 35,4.49,085247990045,Tangerang,2011-02-25
+679,Michael Moore,Wanita,Sarjana,Functional Expert,1995-09-02,24,20 - 35,3.99,085247919134,Jawa Barat,2020-08-25
+680,Pauline Webber,Pria,Sarjana,Manager,1971-04-25,48,46 to Above,2.87,085247988220,Jawa Barat,1998-05-23
+681,Shaun Chance,Pria,Sarjana,Staff,1995-05-17,24,20 - 35,4.03,085246778207,Bali,2020-07-25
+682,Ken Lonsdale,Wanita,Sarjana,Functional Expert,1972-06-14,47,46 to Above,3.26,085246890004,Bali,1999-10-17
+683,Shirley Daniels,Pria,Sarjana,Manager,1983-11-01,36,36 - 45,3.82,085246960623,DKI Jakarta,2009-06-23
+684,Theresa Swint,Wanita,Sarjana,Staff,1990-08-04,29,20 - 35,3.99,085247077036,DKI Jakarta,2014-03-20
+685,Jennifer Braxton,Pria,Sarjana,Staff,1986-11-20,33,20 - 35,4.02,085247143055,DKI Jakarta,2010-12-20
+686,Thais Sissman,Pria,Pra-Sarjana,Staff,1978-10-27,41,36 - 45,3.43,085247992374,Jawa Barat,2003-02-17
+687,Mark Cousins,Pria,Sarjana,Staff,1990-11-17,29,20 - 35,3.4,085247945011,Jawa Barat,2014-08-17
+688,Maria Etezadi,Pria,Sarjana,Senior Staff,1972-06-11,47,46 to Above,2.45,08524797090,Jawa Barat,1997-12-23
+689,Shaun Chance,Pria,Pasca-Sarjana,Vice President,1968-04-05,51,46 to Above,0.0,085247919120,Jawa Barat,1994-02-26
+690,Nicole Hansen,Pria,Sarjana,Functional Expert,1981-09-01,38,36 - 45,4.38,085247944312,DKI Jakarta,2008-09-21
+691,Andrew Allen,Pria,Diploma,Staff,1983-08-04,36,36 - 45,3.06,085247980219,DKI Jakarta,2008-11-23
+692,Logan Currie,Wanita,Sarjana,Staff,1991-10-14,28,20 - 35,3.21,085247975220,DKI Jakarta,2015-07-15
+693,Mick Brown,Pria,Pasca-Sarjana,Staff,1991-07-28,28,20 - 35,4.11,085246790604,Jawa Tengah,2016-08-25
+694,Linda Cazamias,Pria,Sarjana,Supervisor,1993-07-25,26,20 - 35,4.4,085246848601,Jawa Barat,2018-04-16
+695,Keith Dawkins,Pria,Sarjana,Staff,1992-10-07,27,20 - 35,4.27,085246975220,DI Yogyakarta,2019-08-21
+696,Maria Bertelson,Pria,Sarjana,Supervisor,1985-07-02,34,20 - 35,3.88,085247044256,DI Yogyakarta,2010-09-19
+697,Tracy Hopkins,Pria,Sarjana,Staff,1990-07-07,29,20 - 35,3.68,085247190032,Jawa Barat,2018-09-18
+698,Damala Kotsonis,Pria,Sarjana,Supervisor,1989-09-02,30,20 - 35,3.95,085247955044,Jawa Barat,2014-03-20
+699,Odella Nelson,Pria,Sarjana,Supervisor,1987-05-27,32,20 - 35,4.45,085247994109,Jawa Barat,2012-06-18
+700,Katherine Nockton,Pria,Diploma,Manager,1978-07-11,41,36 - 45,3.91,085247992037,Tangerang,2004-04-19
+701,Neoma Murray,Pria,Sarjana,Functional Expert,1986-06-04,33,20 - 35,4.26,085247910024,Jawa Barat,2011-12-25
+702,Nora Pelletier,Pria,Sarjana,Supervisor,1990-09-25,29,20 - 35,4.28,085247960623,Jawa Barat,2017-08-25
+703,Catherine Glotzbach,Pria,Sarjana,Manager,1981-10-08,38,36 - 45,4.39,085247910009,Bali,2005-09-21
+704,Cindy Stewart,Pria,Sarjana,Supervisor,1976-10-03,43,36 - 45,4.62,085247977506,Bali,2002-09-16
+705,Katherine Ducich,Pria,Sarjana,Staff,1993-04-02,26,20 - 35,4.46,085246760610,DKI Jakarta,2018-10-16
+706,Mike Kennedy,Pria,Sarjana,Senior Staff,1986-10-22,33,20 - 35,3.43,085246894513,DKI Jakarta,2010-07-26
+707,Don Weiss,Pria,Sarjana,Supervisor,1980-03-22,39,36 - 45,3.57,085246927514,DKI Jakarta,2007-03-15
+708,Christine Phan,Pria,Sarjana,Supervisor,1969-09-04,50,46 to Above,3.75,08524707960,Jawa Barat,1995-10-15
+709,Maxwell Schwartz,Pria,Pasca-Sarjana,Supervisor,1978-04-10,41,36 - 45,4.71,085247145231,Jawa Barat,2005-08-25
+710,Corinna Mitchell,Wanita,Diploma,Secretary,1997-06-23,22,20 - 35,0.0,085247933319,Jawa Barat,2020-09-20
+711,CoreyLock,Pria,Sarjana,Supervisor,1988-08-09,31,20 - 35,3.47,085247943229,Jawa Barat,2012-07-19
+712,Dionis Lloyd,Pria,Sarjana,Staff,1976-08-04,43,36 - 45,4.0,085247980906,DKI Jakarta,2001-11-16
+713,Todd Sumrall,Pria,Sarjana,Manager,1984-12-03,35,20 - 35,4.31,08524797109,DKI Jakarta,2011-03-17
+714,Jane Waco,Pria,Sarjana,Senior Staff,1976-07-21,43,36 - 45,4.0,085247960623,DKI Jakarta,2000-11-17
+715,Roy FranzÃ¶sisch,Pria,Sarjana,Staff,1985-11-20,34,20 - 35,3.97,085247910024,Jawa Tengah,2011-10-20
+716,John Dryer,Pria,Sarjana,Staff,1992-10-15,27,20 - 35,3.9,085247948180,Jawa Barat,2019-06-19
+717,Neil Knudson,Pria,Sarjana,Senior Staff,1977-04-24,42,36 - 45,3.34,085246722204,DI Yogyakarta,2001-07-20
+718,Nathan Gelder,Pria,Pasca-Sarjana,Manager,1977-05-05,42,36 - 45,4.35,085246880004,DI Yogyakarta,2002-09-15
+719,Alyssa Tate,Pria,Sarjana,Functional Expert,1973-04-22,46,46 to Above,3.22,08524697601,Jawa Barat,1999-08-16
+720,Pauline Chand,Pria,Diploma,Senior Staff,1968-07-07,51,46 to Above,3.63,085247033710,Jawa Barat,1995-09-17
+721,Andy Reiter,Pria,Sarjana,Functional Expert,1983-03-21,36,36 - 45,4.17,085247119143,Jawa Barat,2008-02-15
+722,Cindy Stewart,Pria,Sarjana,Functional Expert,1981-07-08,38,36 - 45,4.07,085247994122,Tangerang,2009-05-22
+723,Lindsay Shagiari,Pria,Sarjana,Staff,1994-07-21,25,20 - 35,3.86,085247984041,Jawa Barat,2020-05-17
+724,Jessica Myrick,Pria,Sarjana,Supervisor,1984-05-05,35,20 - 35,4.22,085247978745,Jawa Barat,2008-11-23
+725,Nicole Hansen,Pria,Sarjana,Supervisor,1976-09-08,43,36 - 45,3.75,085247994122,Bali,2000-01-26
+726,Russell Applegate,Pria,Sarjana,Functional Expert,1986-06-07,33,20 - 35,4.72,08524791852,Bali,2014-05-19
+727,Arianne Irving,Pria,Sarjana,Functional Expert,1983-06-06,36,36 - 45,4.57,085247910009,DKI Jakarta,2008-07-15
+728,Michael Chen,Pria,Sarjana,Staff,1985-05-28,34,20 - 35,4.19,085247910035,DKI Jakarta,2013-08-16
+729,Tom Boeckenhauer,Pria,Sarjana,Staff,1991-11-25,28,20 - 35,4.32,085246731907,DKI Jakarta,2018-02-21
+730,Victoria Wilson,Wanita,Sarjana,Staff,1975-04-28,44,36 - 45,4.02,085246810009,Jawa Barat,2003-05-25
+731,Paul Lucas,Wanita,Sarjana,Manager,1974-09-06,45,36 - 45,4.04,085246994109,Jawa Barat,2000-06-21
+732,Gary Hwang,Pria,Sarjana,Functional Expert,1982-04-03,37,36 - 45,4.31,08524706040,Jawa Barat,2009-02-21
+733,Caroline Jumper,Pria,Sarjana,Supervisor,1972-10-30,47,46 to Above,3.73,085247178550,Jawa Barat,1998-01-23
+734,Mike Caudle,Pria,Sarjana,Staff,1989-11-26,30,20 - 35,4.17,085247919140,DKI Jakarta,2015-09-18
+735,Benjamin Venier,Pria,Pasca-Sarjana,Senior Staff,1978-10-03,41,36 - 45,3.56,085247945231,DKI Jakarta,2006-11-16
+736,Jeremy Farry,Pria,Sarjana,Functional Expert,1996-11-04,23,20 - 35,3.24,085247910009,DKI Jakarta,2020-11-23
+737,Ellis Ballard,Pria,Sarjana,Manager,1977-08-04,42,36 - 45,3.24,085247998198,Jawa Tengah,2001-03-15
+738,Mike Pelletier,Pria,Pasca-Sarjana,Functional Expert,1977-07-07,42,36 - 45,4.39,085247961604,Jawa Barat,2003-11-22
+739,Jim Mitchum,Wanita,Diploma,Functional Expert,1969-10-13,50,46 to Above,3.92,085247989115,DI Yogyakarta,1996-01-26
+740,Carl Ludwig,Pria,Sarjana,Manager,1984-05-08,35,20 - 35,3.76,08524792886,DI Yogyakarta,2008-08-25
+741,Chloris Kastensmidt,Pria,Sarjana,Supervisor,1987-11-08,32,20 - 35,4.7,085246777036,Jawa Barat,2012-05-16
+742,Deborah Brumfield,Pria,Sarjana,Manager,1981-11-29,38,36 - 45,4.11,085246833180,Jawa Barat,2005-11-24
+743,Pamela Coakley,Wanita,Sarjana,Staff,1970-09-23,49,46 to Above,3.54,085246928403,Jawa Barat,1998-05-25
+744,Victoria Brennan,Pria,Sarjana,Manager,1981-06-24,38,36 - 45,3.7,085247010024,Tangerang,2006-10-17
+745,Emily Phan,Wanita,Sarjana,Supervisor,1974-09-27,45,36 - 45,4.0,085247194110,Jawa Barat,1998-11-25
+746,Maria Etezadi,Pria,Sarjana,Staff,1992-09-28,27,20 - 35,3.8,085247939212,Jawa Barat,2016-11-21
+747,Ivan Gibson,Pria,Pasca-Sarjana,Functional Expert,1990-05-23,29,20 - 35,3.52,085247948187,Bali,2018-09-22
+748,Joni Sundaresam,Pria,Sarjana,Manager,1976-05-31,43,36 - 45,4.06,085247910801,Bali,2000-04-23
+749,Bobby Odegard,Pria,Sarjana,Manager,1971-04-17,48,46 to Above,3.34,085247978207,DKI Jakarta,1996-02-26
+750,Victoria Wilson,Pria,Diploma,Manager,1980-09-01,39,36 - 45,3.94,085247928052,DKI Jakarta,2008-05-22
+751,Aimee Bixby,Pria,Sarjana,Supervisor,1973-11-20,46,46 to Above,4.07,08524791852,DKI Jakarta,1998-09-18
+752,Julia West,Pria,Pasca-Sarjana,Supervisor,1966-05-15,53,46 to Above,3.47,085247932216,Jawa Barat,1994-01-25
+753,Jeremy Ellison,Pria,Sarjana,Staff,1995-09-28,24,20 - 35,4.07,085246777070,Jawa Barat,2020-12-16
+754,Edward Becker,Pria,Sarjana,Staff,1987-04-05,32,20 - 35,5.0,085246810024,Jawa Barat,2015-01-18
+755,Paul Knutson,Pria,Sarjana,Functional Expert,1980-10-06,39,36 - 45,3.63,085246948227,Jawa Barat,2008-12-23
+756,Christopher Schild,Pria,Diploma,Manager,1968-06-27,51,46 to Above,3.74,085247047201,DKI Jakarta,1995-11-17
+757,Sheri Gordon,Pria,Sarjana,Supervisor,1982-08-21,37,36 - 45,4.88,085247113021,DKI Jakarta,2008-04-17
+758,Charlotte Melton,Pria,Sarjana,Supervisor,1987-08-07,32,20 - 35,4.32,085247979109,DKI Jakarta,2013-05-24
+759,Clay Ludtke,Wanita,Sarjana,Functional Expert,1990-09-01,29,20 - 35,3.89,085247960610,Jawa Tengah,2017-04-20
+760,Jesus Ocampo,Wanita,Sarjana,Staff,1975-05-25,44,36 - 45,3.78,085247911757,Jawa Barat,2003-12-17
+761,Anthony Witt,Pria,Sarjana,Staff,1989-08-25,30,20 - 35,4.62,085247994110,DI Yogyakarta,2016-01-20
+762,Dianna Vittorini,Pria,Sarjana,Staff,1997-06-26,22,20 - 35,0.0,085247990008,DI Yogyakarta,2020-10-20
+763,Adam Hart,Pria,Pra-Sarjana,Functional Expert,1981-06-01,38,36 - 45,4.42,085247912180,Jawa Barat,2008-12-19
+764,Sanjit Chand,Wanita,Sarjana,Staff,1992-04-01,27,20 - 35,3.95,085247910024,Jawa Barat,2018-03-19
+765,Mick Crebagga,Pria,Sarjana,Staff,1993-03-26,26,20 - 35,3.86,085246710024,Jawa Barat,2017-02-16
+766,Tonja Turnell,Wanita,Sarjana,Functional Expert,1987-06-29,32,20 - 35,4.26,085246890045,Tangerang,2012-05-19
+767,Anne Pryor,Wanita,Sarjana,Manager,1973-07-15,46,46 to Above,3.02,085246960610,Jawa Barat,1999-12-18
+768,Dan Lawera,Pria,Sarjana,Functional Expert,1984-07-29,35,20 - 35,4.0,085247077340,Jawa Barat,2009-12-25
+769,Naresj Patel,Pria,Sarjana,Manager,1980-09-05,39,36 - 45,3.28,085247114609,Bali,2008-04-21
+770,Vivek Grady,Pria,Sarjana,Functional Expert,1975-03-28,44,36 - 45,4.0,085247964118,Bali,2003-02-25
+771,Muhammed Yedwab,Pria,Pasca-Sarjana,Staff,1992-10-14,27,20 - 35,4.71,085247943055,DKI Jakarta,2016-09-26
+772,Rick Duston,Pria,Sarjana,Supervisor,1988-08-26,31,20 - 35,3.57,085247990049,DKI Jakarta,2014-01-23
+773,Jeremy Farry,Pria,Sarjana,Staff,1992-10-15,27,20 - 35,3.81,085247959405,DKI Jakarta,2016-01-25
+774,Dennis Pardue,Pria,Sarjana,Supervisor,1972-07-02,47,46 to Above,3.87,085247977041,Jawa Barat,1997-12-21
+775,Maribeth Dona,Pria,Sarjana,Staff,1991-04-29,28,20 - 35,3.65,085247948234,Jawa Barat,2017-07-23
+776,Maribeth Yedwab,Wanita,Pasca-Sarjana,Staff,1992-07-17,27,20 - 35,3.67,085247990032,Jawa Barat,2020-09-15
+777,Aimee Bixby,Pria,Sarjana,Supervisor,1988-12-03,31,20 - 35,4.42,085246733801,Jawa Barat,2015-08-15
+778,George Bell,Wanita,Diploma,Secretary,1994-08-21,25,20 - 35,0.0,085246819134,DKI Jakarta,2020-10-20
+779,Cynthia Arntzen,Pria,Sarjana,Manager,1973-06-01,46,46 to Above,3.04,085246990036,DKI Jakarta,1998-01-24
+780,Max Engle,Pria,Sarjana,Manager,1976-08-08,43,36 - 45,4.58,085247090032,DKI Jakarta,2004-01-17
+781,Jas O'Carroll,Pria,Pasca-Sarjana,Supervisor,1983-10-26,36,36 - 45,4.35,085247136116,Jawa Tengah,2011-11-18
+782,Marina Lichtenstein,Pria,Sarjana,Staff,1986-03-20,33,20 - 35,4.37,085247976106,Jawa Barat,2014-04-25
+783,Yana Sorensen,Pria,Sarjana,Staff,1991-10-14,28,20 - 35,5.0,085247910035,DI Yogyakarta,2015-04-22
+784,Paul Lucas,Wanita,Sarjana,Supervisor,1976-08-26,43,36 - 45,4.23,085247960653,DI Yogyakarta,2004-11-23
+785,Julie Kriz,Pria,Sarjana,Supervisor,1988-04-17,31,20 - 35,3.64,085247994110,Jawa Barat,2012-07-19
+786,Parhena Norris,Pria,Sarjana,Manager,1977-05-12,42,36 - 45,3.33,085247932216,Jawa Barat,2002-11-19
+787,Jenna Caffey,Pria,Sarjana,Staff,1988-07-18,31,20 - 35,3.94,085247977070,Jawa Barat,2013-05-23
+788,James Galang,Pria,Sarjana,Staff,1995-07-01,24,20 - 35,4.6,085247992804,Tangerang,2020-08-20
+789,Philisse Overcash,Wanita,Diploma,Staff,1978-10-17,41,36 - 45,3.95,085246790045,Jawa Barat,2002-10-22
+790,Marc Crier,Wanita,Pasca-Sarjana,Senior Staff,1970-09-10,49,46 to Above,4.26,085246894110,Jawa Barat,1995-10-18
+791,Alan Shonely,Pria,Sarjana,Supervisor,1976-10-06,43,36 - 45,4.47,085246933614,Bali,2002-12-18
+792,Clay Ludtke,Pria,Sarjana,Functional Expert,1976-07-31,43,36 - 45,4.43,085247098105,Bali,2004-11-23
+793,Natalie Webber,Pria,Pra-Sarjana,Senior Staff,1967-07-27,52,46 to Above,3.44,085247190008,DKI Jakarta,1995-02-19
+794,Toby Braunhardt,Wanita,Diploma,Senior Staff,1972-05-06,47,46 to Above,3.21,085247940475,DKI Jakarta,1996-08-25
+795,Bill Stewart,Pria,Sarjana,Staff,1991-07-05,28,20 - 35,3.64,085247997301,DKI Jakarta,2017-11-26
+796,Fred Hopkins,Pria,Sarjana,Staff,1989-11-26,30,20 - 35,4.32,085247978041,Jawa Barat,2014-05-18
+797,Valerie Mitchum,Pria,Sarjana,Staff,1993-06-29,26,20 - 35,3.69,085247992024,Jawa Barat,2019-12-21
+798,Sarah Foster,Pria,Sarjana,Manager,1976-04-23,43,36 - 45,4.01,085247919134,Jawa Barat,2004-06-26
+799,Hilary Holden,Wanita,Sarjana,Staff,1973-08-10,46,46 to Above,3.67,085247919120,Jawa Barat,2000-03-17
+800,Christina DeMoss,Pria,Sarjana,Staff,1992-03-28,27,20 - 35,3.63,085247933614,DKI Jakarta,2020-04-17
+801,Hunter Lopez,Wanita,Diploma,Staff,1976-07-06,43,36 - 45,4.58,085246775217,DKI Jakarta,2004-11-23
+802,Thea Hendricks,Wanita,Sarjana,Staff,1983-10-23,36,36 - 45,3.94,085246819143,DKI Jakarta,2010-11-25
+803,Michelle Moray,Wanita,Sarjana,Manager,1973-06-08,46,46 to Above,4.04,085246943123,Jawa Tengah,2000-10-18
+804,Quincy Jones,Pria,Sarjana,Manager,1978-07-02,41,36 - 45,4.04,085247010011,Jawa Barat,2005-04-15
+805,Neola Schneider,Pria,Pasca-Sarjana,Staff,1987-03-26,32,20 - 35,3.33,085247160610,DI Yogyakarta,2011-12-20
+806,Michael Moore,Pria,Sarjana,Manager,1981-11-21,38,36 - 45,4.09,085247980013,DI Yogyakarta,2007-11-25
+807,Rick Duston,Pria,Sarjana,Supervisor,1972-08-10,47,46 to Above,3.8,085247994591,Jawa Barat,1996-12-18
+808,Robert Barroso,Pria,Sarjana,Manager,1980-09-02,39,36 - 45,4.37,085247955407,Jawa Barat,2008-07-20
+809,Rob Dowd,Wanita,Sarjana,Staff,1994-05-10,25,20 - 35,4.28,085247992691,Jawa Barat,2020-03-22
+810,Shaun Weien,Pria,Sarjana,Supervisor,1981-06-04,38,36 - 45,3.89,085247948307,Tangerang,2008-06-22
+811,Sylvia Foulston,Wanita,Pra-Sarjana,Staff,1976-06-19,43,36 - 45,4.0,08524797060,Jawa Barat,2002-12-23
+812,Eric Barreto,Pria,Sarjana,Staff,1993-06-17,26,20 - 35,4.39,085247947201,Jawa Barat,2017-06-16
+813,Sean Braxton,Pria,Diploma,Supervisor,1970-11-20,49,46 to Above,3.89,085246798661,Bali,1996-06-24
+814,Pamela Stobb,Pria,Sarjana,Staff,1982-10-04,37,36 - 45,4.19,085246810024,Bali,2007-09-26
+815,Claudia Bergmann,Pria,Sarjana,Supervisor,1984-08-27,35,20 - 35,4.16,085246910035,DKI Jakarta,2008-08-19
+816,Damala Kotsonis,Pria,Diploma,Supervisor,1981-04-20,38,36 - 45,4.48,085247043229,DKI Jakarta,2005-08-18
+817,Anthony Witt,Pria,Pra-Sarjana,Supervisor,1981-09-26,38,36 - 45,3.27,085247160505,DKI Jakarta,2007-10-21
+818,Troy Staebel,Pria,Sarjana,Supervisor,1977-04-27,42,36 - 45,3.96,085247947201,Jawa Barat,2003-04-19
+819,Herbert Flentye,Wanita,Diploma,Secretary,1995-11-23,24,20 - 35,0.0,085247975701,Jawa Barat,2020-03-20
+820,Henia Zydlo,Pria,Sarjana,Staff,1992-08-15,27,20 - 35,3.69,085247910024,Jawa Barat,2016-07-15
+821,Alejandro Ballentine,Pria,Sarjana,Supervisor,1978-04-07,41,36 - 45,4.73,085247927217,Jawa Barat,2004-11-21
+822,Phillina Ober,Pria,Sarjana,Staff,1993-09-24,26,20 - 35,4.1,085247939212,DKI Jakarta,2019-07-17
+823,Arthur Gainer,Pria,Sarjana,Staff,1994-09-02,25,20 - 35,4.8,085247910035,DKI Jakarta,2020-10-23
+824,Steven Cartwright,Pria,Sarjana,Functional Expert,1990-11-02,29,20 - 35,3.25,085247922980,DKI Jakarta,2018-08-16
+825,Natalie DeCherney,Wanita,Sarjana,Staff,1990-11-17,29,20 - 35,3.89,085246719013,Jawa Tengah,2017-05-25
+826,Cynthia Delaney,Pria,Sarjana,Staff,1992-10-16,27,20 - 35,3.86,085246844105,Jawa Barat,2018-03-25
+827,Patrick Gardner,Pria,Sarjana,Functional Expert,1978-04-14,41,36 - 45,3.89,085246998103,DI Yogyakarta,2005-11-18
+828,Irene Maddox,Pria,Sarjana,Staff,1981-05-14,38,36 - 45,3.83,085247090805,DI Yogyakarta,2005-12-16
+829,Jamie Kunitz,Pria,Sarjana,Manager,1976-07-22,43,36 - 45,4.06,085247127511,Jawa Barat,2001-08-20
+830,Jeremy Pistek,Pria,Sarjana,Staff,1996-06-30,23,20 - 35,0.0,085247984057,Jawa Barat,2020-07-26
+831,Michelle Moray,Pria,Sarjana,Functional Expert,1987-05-22,32,20 - 35,4.03,085247990045,Jawa Barat,2015-10-20
+832,Debra Catini,Pria,Sarjana,Manager,1986-09-17,33,20 - 35,4.16,085247948205,Tangerang,2014-06-15
+833,John Lee,Pria,Sarjana,Staff,1990-05-07,29,20 - 35,4.0,085247919140,Jawa Barat,2016-02-19
+834,Bradley Nguyen,Pria,Sarjana,Staff,1989-07-28,30,20 - 35,3.96,085247933012,Jawa Barat,2014-01-16
+835,Katherine Ducich,Pria,Sarjana,Staff,1992-08-06,27,20 - 35,4.25,085247978745,Bali,2019-07-19
+836,Jay Kimmel,Pria,Sarjana,Senior Staff,1989-05-05,30,20 - 35,0.0,085247911572,Bali,2016-09-26
+837,Filia McAdams,Pria,Sarjana,Staff,1985-05-21,34,20 - 35,4.39,085246794110,DKI Jakarta,2009-04-23
+838,Christina Anderson,Pria,Sarjana,Functional Expert,1985-08-26,34,20 - 35,4.09,085246860540,DKI Jakarta,2010-04-15
+839,Keith Dawkins,Pria,Diploma,Senior Staff,1980-04-02,39,36 - 45,2.92,085246975220,DKI Jakarta,2007-11-16
+840,Logan Haushalter,Wanita,Sarjana,Manager,1971-07-08,48,46 to Above,2.9,085247092105,Jawa Barat,1997-11-20
+841,Anna Gayman,Pria,Sarjana,Staff,1997-11-16,22,20 - 35,0.0,085247160201,Jawa Barat,2020-01-18
+842,David Bremer,Pria,Sarjana,Supervisor,1977-04-08,42,36 - 45,4.2,085247990004,Jawa Barat,2004-09-16
+843,Emily Ducich,Pria,Sarjana,Staff,1991-07-26,28,20 - 35,4.54,085247930318,Jawa Barat,2018-11-15
+844,Mick Crebagga,Pria,Sarjana,Manager,1982-07-27,37,36 - 45,3.84,085247943229,DKI Jakarta,2009-11-17
+845,Bryan Mills,Pria,Sarjana,Supervisor,1977-06-04,42,36 - 45,4.17,085247971111,DKI Jakarta,2004-07-25
+846,Erin Mull,Pria,Sarjana,Staff,1994-03-19,25,20 - 35,4.27,085247933710,DKI Jakarta,2020-06-26
+847,Dianna Arnett,Pria,Sarjana,Manager,1976-07-23,43,36 - 45,3.18,085247922204,Jawa Tengah,2000-03-25
+848,Meg O'Connel,Pria,Sarjana,Supervisor,1983-08-22,36,36 - 45,4.35,085247950315,Jawa Barat,2009-05-15
+849,Joni Wasserman,Pria,Diploma,Supervisor,1976-07-04,43,36 - 45,3.81,085246794110,DI Yogyakarta,2004-09-24
+850,Victoria Wilson,Pria,Sarjana,Supervisor,1973-08-29,46,46 to Above,3.69,085246843229,DI Yogyakarta,2000-05-23
+851,Tonja Turnell,Pria,Sarjana,Senior Staff,1964-08-07,55,46 to Above,0.0,085246929203,Jawa Barat,1992-01-22
+852,Sara Luxemburg,Pria,Sarjana,Supervisor,1982-09-10,37,36 - 45,4.22,085247093534,Jawa Barat,2007-03-25
+853,Raymond Messe,Pria,Sarjana,Senior Staff,1978-08-04,41,36 - 45,3.91,085247193534,Jawa Barat,2002-01-19
+854,Mick Brown,Pria,Sarjana,Staff,1991-05-01,28,20 - 35,4.87,085247910024,Tangerang,2015-03-16
+855,Arthur Gainer,Pria,Diploma,Manager,1975-11-26,44,36 - 45,3.72,085247971203,Jawa Barat,2001-12-24
+856,Max Ludwig,Pria,Sarjana,Supervisor,1982-09-28,37,36 - 45,3.22,085247994122,Jawa Barat,2006-03-25
+857,Craig Carroll,Pria,Sarjana,Senior Staff,1972-06-13,47,46 to Above,2.98,085247980219,Bali,1997-07-19
+858,Stewart Carmichael,Wanita,Pra-Sarjana,Staff,1973-09-02,46,46 to Above,3.8,085247968104,Bali,1999-07-21
+859,Greg Guthrie,Wanita,Sarjana,Staff,1994-10-04,25,20 - 35,4.56,085247998026,DKI Jakarta,2020-05-24
+860,Muhammed Yedwab,Pria,Sarjana,Supervisor,1982-04-28,37,36 - 45,3.97,085247992704,DKI Jakarta,2010-10-23
+861,Darren Powers,Pria,Sarjana,Senior Staff,1969-11-30,50,46 to Above,3.35,085246719140,DKI Jakarta,1997-03-20
+862,Bryan Davis,Pria,Sarjana,Staff,1994-08-02,25,20 - 35,0.0,085246819140,Jawa Barat,2020-05-25
+863,Claudia Bergmann,Pria,Sarjana,Supervisor,1987-03-29,32,20 - 35,4.52,08524697109,Jawa Barat,2012-11-20
+864,Jim Epp,Pria,Sarjana,Functional Expert,1987-08-10,32,20 - 35,3.92,085247094110,Jawa Barat,2011-05-17
+865,Roy Phan,Pria,Sarjana,Supervisor,1979-08-03,40,36 - 45,3.54,085247155044,Jawa Barat,2007-11-26
+866,Russell Applegate,Pria,Sarjana,Supervisor,1974-11-06,45,36 - 45,3.5,085247940214,DKI Jakarta,1998-04-24
+867,Resi PÃ¶lking,Pria,Sarjana,Staff,1997-10-16,22,20 - 35,0.0,085247944052,DKI Jakarta,2020-10-26
+868,Thomas Boland,Pria,Sarjana,Staff,1993-11-24,26,20 - 35,4.17,08524797036,DKI Jakarta,2020-04-23
+869,Brad Eason,Pria,Sarjana,Staff,1987-04-03,32,20 - 35,3.76,085247993905,Jawa Tengah,2015-01-20
+870,Mathew Reese,Pria,Sarjana,Staff,1996-04-08,23,20 - 35,4.14,085247939212,Jawa Barat,2020-11-16
+871,Raymond Messe,Wanita,Pasca-Sarjana,Functional Expert,1989-11-27,30,20 - 35,4.2,085247910035,DI Yogyakarta,2014-06-19
+872,Jill Fjeld,Wanita,Pasca-Sarjana,Manager,1984-10-18,35,20 - 35,4.18,085247910035,DI Yogyakarta,2012-05-23
+873,Adrian Shami,Wanita,Sarjana,Functional Expert,1978-06-02,41,36 - 45,4.12,085246794122,Jawa Barat,2003-09-19
+874,Joseph Airdo,Pria,Sarjana,Manager,1981-06-13,38,36 - 45,3.95,085246832216,Jawa Barat,2009-05-16
+875,Grace Kelly,Pria,Sarjana,Staff,1995-08-21,24,20 - 35,3.1,085246922153,Jawa Barat,2020-09-20
+876,Phillip Breyer,Pria,Pasca-Sarjana,Senior Staff,1987-09-17,32,20 - 35,0.0,085247019140,Tangerang,2012-12-17
+877,Heather Kirkland,Wanita,Sarjana,Functional Expert,1988-08-26,31,20 - 35,3.82,085247117602,Jawa Barat,2014-04-22
+878,Frank Olsen,Pria,Sarjana,Manager,1978-10-29,41,36 - 45,3.04,085247922153,Jawa Barat,2002-10-23
+879,Brian Thompson,Wanita,Sarjana,Functional Expert,1975-12-02,44,36 - 45,4.76,085247994109,Bali,2001-07-26
+880,Stefania Perrino,Pria,Sarjana,Manager,1977-11-09,42,36 - 45,3.24,085247948227,Bali,2005-11-19
+881,Lauren Leatherbury,Pria,Sarjana,Supervisor,1975-07-30,44,36 - 45,4.14,085247914609,DKI Jakarta,2002-07-22
+882,Matt Collins,Pria,Sarjana,Staff,1981-06-29,38,36 - 45,3.75,085247990045,DKI Jakarta,2005-04-21
+883,Janet Lee,Pria,Pasca-Sarjana,Senior Staff,1986-07-23,33,20 - 35,0.0,085247992105,DKI Jakarta,2011-10-21
+884,Erin Ashbrook,Wanita,Sarjana,Supervisor,1969-06-13,50,46 to Above,3.49,085247921044,Jawa Barat,1996-07-25
+885,Sue Ann Reed,Pria,Sarjana,Staff,1990-10-31,29,20 - 35,4.9,085246710801,Jawa Barat,2018-08-24
+886,Cathy Hwang,Pria,Pasca-Sarjana,Supervisor,1979-09-09,40,36 - 45,3.11,085246848227,Jawa Barat,2003-06-24
+887,Neil Ducich,Wanita,Sarjana,Staff,1980-04-23,39,36 - 45,3.3,085246994122,Jawa Barat,2005-04-16
+888,Bruce Stewart,Pria,Sarjana,Staff,1990-12-06,29,20 - 35,3.76,085247077095,DKI Jakarta,2018-11-19
+889,Sara Luxemburg,Pria,Sarjana,Staff,1994-05-16,25,20 - 35,3.98,085247148227,DKI Jakarta,2018-10-19
+890,George Bell,Pria,Sarjana,Supervisor,1981-04-26,38,36 - 45,4.15,08524796360,DKI Jakarta,2005-04-17
+891,Aaron Smayling,Pria,Pra-Sarjana,Functional Expert,1982-09-09,37,36 - 45,4.85,085247953209,Jawa Tengah,2008-03-15
+892,Raymond Messe,Pria,Pasca-Sarjana,Functional Expert,1991-08-27,28,20 - 35,4.1,085247978207,Jawa Barat,2018-03-25
+893,Nicole Hansen,Pria,Sarjana,Functional Expert,1981-09-08,38,36 - 45,4.49,085247975220,DI Yogyakarta,2007-02-17
+894,Barbara Fisher,Pria,Sarjana,Staff,1990-07-05,29,20 - 35,4.03,085247922304,DI Yogyakarta,2018-12-18
+895,Katharine Harms,Pria,Sarjana,Functional Expert,1980-05-26,39,36 - 45,3.26,085247910009,Jawa Barat,2006-03-24
+896,Frank Atkinson,Wanita,Diploma,Secretary,1990-09-04,29,20 - 35,0.0,085247910011,Jawa Barat,2015-07-15
+897,Giulietta Weimer,Pria,Sarjana,Staff,1989-07-20,30,20 - 35,4.74,085246722153,Jawa Barat,2016-05-18
+898,Dianna Arnett,Wanita,Diploma,Functional Expert,1973-05-21,46,46 to Above,3.75,085246843615,Tangerang,1999-04-17
+899,Frank Hawley,Wanita,Sarjana,Staff,1972-11-10,47,46 to Above,4.0,085246919140,Jawa Barat,1996-10-21
+900,Ralph Kennedy,Pria,Sarjana,Manager,1981-04-19,38,36 - 45,3.73,085247019120,Jawa Barat,2007-11-23
+901,Filia McAdams,Pria,Pasca-Sarjana,Senior Staff,1970-04-09,49,46 to Above,3.24,085247187401,Bali,1997-10-18
+902,Alyssa Crouse,Pria,Sarjana,Staff,1990-09-19,29,20 - 35,4.57,085247978664,Bali,2015-08-16
+903,Jennifer Braxton,Pria,Sarjana,Supervisor,1974-09-06,45,36 - 45,4.31,085247939212,DKI Jakarta,2001-04-15
+904,Gary McGarr,Pria,Sarjana,Manager,1982-11-08,37,36 - 45,3.74,085247985023,DKI Jakarta,2006-06-17
+905,Roy FranzÃ¶sisch,Pria,Diploma,Senior Staff,1971-06-15,48,46 to Above,3.95,085247992054,DKI Jakarta,1995-11-22
+906,Noah Childs,Pria,Sarjana,Staff,1989-05-22,30,20 - 35,3.22,085247994110,Jawa Barat,2017-11-22
+907,Nat Gilpin,Pria,Sarjana,Staff,1984-03-31,35,20 - 35,3.74,085247972701,Jawa Barat,2009-05-18
+908,Adam Hart,Pria,Sarjana,Manager,1972-10-28,47,46 to Above,3.9,085247994110,Jawa Barat,1996-02-16
+909,Cathy Hwang,Pria,Sarjana,Supervisor,1992-04-04,27,20 - 35,4.58,085246710011,Jawa Barat,2019-06-21
+910,Charles Crestani,Pria,Sarjana,Staff,1995-12-05,24,20 - 35,3.68,085246819134,DKI Jakarta,2019-05-22
+911,Michelle Ellison,Wanita,Sarjana,Supervisor,1975-09-04,44,36 - 45,3.82,085246910011,DKI Jakarta,1999-05-21
+912,Benjamin Patterson,Pria,Sarjana,Manager,1972-04-13,47,46 to Above,2.61,085247097206,DKI Jakarta,1998-07-20
+913,Mark Packer,Wanita,Sarjana,Staff,1993-12-02,26,20 - 35,3.4,085247148205,Jawa Tengah,2018-06-15
+914,Caroline Jumper,Pria,Sarjana,Functional Expert,1984-05-09,35,20 - 35,4.45,085247932216,Jawa Barat,2009-10-18
+915,John Castell,Pria,Diploma,Supervisor,1977-07-26,42,36 - 45,3.05,085247910024,DI Yogyakarta,2003-04-20
+916,Cyma Kinney,Pria,Sarjana,Staff,1993-07-01,26,20 - 35,4.05,085247995123,DI Yogyakarta,2019-01-21
+917,Luke Foster,Pria,Sarjana,Staff,1986-11-21,33,20 - 35,4.55,085247923464,Jawa Barat,2014-04-20
+918,Chuck Clark,Pria,Sarjana,Supervisor,1977-05-28,42,36 - 45,4.0,085247942420,Jawa Barat,2003-10-15
+919,Dan Lawera,Pria,Sarjana,Supervisor,1976-12-01,43,36 - 45,4.26,085247998661,Jawa Barat,2003-01-25
+920,Paul Gonzalez,Pria,Diploma,Manager,1979-06-14,40,36 - 45,3.83,085247910024,Tangerang,2003-01-24
+921,Erica Hernandez,Pria,Sarjana,Functional Expert,1975-03-30,44,36 - 45,4.26,085246728540,Jawa Barat,2000-02-23
+922,Tracy Blumstein,Pria,Sarjana,Supervisor,1984-09-05,35,20 - 35,3.9,085246885254,Jawa Barat,2012-04-21
+923,Dean Katz,Wanita,Sarjana,Staff,1995-12-04,24,20 - 35,3.98,085246952601,Bali,2019-10-22
+924,Jeremy Pistek,Pria,Pasca-Sarjana,Manager,1985-09-30,34,20 - 35,4.14,085247060653,Bali,2010-09-25
+925,Carol Darley,Wanita,Diploma,Supervisor,1970-05-06,49,46 to Above,3.96,085247192037,DKI Jakarta,1995-04-16
+926,Adam Shillingsburg,Pria,Sarjana,Senior Staff,1972-07-13,47,46 to Above,0.0,085247945503,DKI Jakarta,2000-07-23
+927,Jas O'Carroll,Pria,Sarjana,Staff,1990-09-07,29,20 - 35,4.02,08524797601,DKI Jakarta,2016-07-19
+928,Amy Cox,Wanita,Sarjana,Manager,1973-05-14,46,46 to Above,3.36,085247945231,Jawa Barat,1998-01-19
+929,Ryan Akin,Pria,Pra-Sarjana,Supervisor,1965-11-27,54,46 to Above,3.23,085247965109,Jawa Barat,1989-06-16
+930,CoreyLock,Pria,Sarjana,Functional Expert,1986-06-30,33,20 - 35,3.81,085247990004,Jawa Barat,2014-03-19
